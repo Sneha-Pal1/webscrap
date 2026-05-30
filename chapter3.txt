@@ -1,0 +1,2177 @@
+Verse 2.3.1
+Line 1: “śrīśuka uvāca ”
+śrīśuka* -
+śrīśuka (noun, masculine)
+[nominative single]
+uvāca -
+√vac (verb class 2)
+[perfect active first single], [perfect active third single]
+√vac (verb class 3)
+[perfect active first single], [perfect active third single]
+Line 2: “evametannigaditaṃ pṛṣṭavān yad bhavān mama ”
+evam -
+evam (indeclinable adverb)
+[indeclinable adverb]
+evam (indeclinable)
+[indeclinable]
+eva (noun, masculine)
+[adverb], [accusative single]
+eva (noun, neuter)
+[adverb], [nominative single], [accusative single]
+evā (noun, feminine)
+[adverb]
+etan -
+etad (noun, masculine)
+[compound], [adverb], [nominative single], [vocative single]
+etad (noun, neuter)
+[compound], [nominative single], [accusative single]
+nigaditam -
+nigadita (noun, masculine)
+[adverb], [accusative single]
+nigadita (noun, neuter)
+[adverb], [nominative single], [accusative single]
+nigaditā (noun, feminine)
+[adverb]
+pṛṣṭavān -
+√pṛṣ -> pṛṣṭavat (participle, masculine)
+[nominative single from √pṛṣ class 1 verb]
+√praś -> pṛṣṭavat (participle, masculine)
+[nominative single from √praś class 6 verb]
+pṛṣṭavat (noun, masculine)
+[nominative single]
+yad -
+yat (indeclinable relative)
+[indeclinable relative]
+yat (noun, masculine)
+[compound]
+yad (noun, masculine)
+[compound], [adverb], [nominative single], [vocative single]
+yat (noun, neuter)
+[nominative single], [vocative single], [accusative single]
+√i -> yat (participle, neuter)
+[nominative single from √i class 2 verb], [vocative single from √i class 2 verb], [accusative single from √i class 2 verb]
+yat (pronoun, neuter)
+[nominative single], [accusative single]
+bhavān -
+bhava (noun, masculine)
+[adverb], [accusative plural], [ablative single]
+bhava (noun, neuter)
+[adverb], [ablative single]
+bhavant (pronoun, masculine)
+[nominative single]
+mama -
+asmad (pronoun, none)
+[genitive single]
+√mā (verb class 2)
+[perfect active second plural]
+√mā (verb class 3)
+[perfect active second plural]
+√mā (verb class 4)
+[perfect active second plural]
+√mā (verb class 1)
+[perfect active second plural]
+Line 3: “nṛṇāṃ yanmriyamāṇānāṃ manuṣyeṣu manīṣiṇām ”
+nṛṇām -
+nṛ (noun, masculine)
+[genitive plural]
+yan -
+yat (indeclinable relative)
+[indeclinable relative]
+yat (noun, masculine)
+[compound], [vocative single]
+yad (noun, masculine)
+[compound], [adverb], [nominative single], [vocative single]
+yat (noun, neuter)
+[nominative single], [vocative single], [accusative single]
+√i -> yat (participle, masculine)
+[nominative single from √i class 2 verb], [vocative single from √i class 2 verb]
+√i -> yat (participle, neuter)
+[nominative single from √i class 2 verb], [vocative single from √i class 2 verb], [accusative single from √i class 2 verb]
+yat (pronoun, neuter)
+[nominative single], [accusative single]
+mriyamāṇānām -
+√mṛ -> mriyamāṇa (participle, masculine)
+[genitive plural from √mṛ class 1 verb], [genitive plural from √mṛ class 6 verb]
+√mṛ -> mriyamāṇa (participle, neuter)
+[genitive plural from √mṛ class 1 verb], [genitive plural from √mṛ class 6 verb]
+√mṛ -> mriyamāṇā (participle, feminine)
+[genitive plural from √mṛ class 1 verb], [genitive plural from √mṛ class 6 verb]
+manuṣyeṣu -
+manuṣyeṣu (noun, masculine)
+[compound], [adverb]
+manuṣya (noun, masculine)
+[locative plural]
+manuṣya (noun, neuter)
+[locative plural]
+manīṣiṇām -
+manīṣiṇā (noun, feminine)
+[accusative single]
+manīṣin (noun, masculine)
+[genitive plural]
+manīṣin (noun, neuter)
+[genitive plural]
+
+Verse 2.3.2
+Line 1: “brahmavarcasakāmastu yajeta brahmaṇaspatim ”
+brahmavarcasakāmas -
+brahmavarcasakāma (noun, masculine)
+[nominative single]
+tu -
+tu (indeclinable particle)
+[indeclinable particle]
+yajeta -
+√yaj (verb class 1)
+[optative active second plural], [optative middle third single]
+brahmaṇaspatim -
+brahmaṇaspati (noun, masculine)
+[accusative single]
+Line 2: “indraṃ indriyakāmastu prajākāmaḥ prajāpatīn ”
+indram -
+indra (noun, masculine)
+[adverb], [accusative single]
+indrā (noun, feminine)
+[adverb]
+indriyakāmas -
+indriyakāma (noun, masculine)
+[nominative single]
+tu -
+tu (indeclinable particle)
+[indeclinable particle]
+prajākāmaḥ -
+prajākāma (noun, masculine)
+[nominative single]
+prajāpatīn -
+prajāpati (noun, masculine)
+[accusative plural]
+
+Verse 2.3.3
+Line 1: “devīṃ māyāṃ tu śrīkāmaḥ tejaskāmo vibhāvasum ”
+devīm -
+devī (noun, feminine)
+[accusative single]
+māyām -
+mā (noun, feminine)
+[locative single]
+māyā (noun, feminine)
+[accusative single]
+√mā (verb class 2)
+[optative active first single]
+tu -
+tu (indeclinable particle)
+[indeclinable particle]
+śrīkāmaḥ -
+śrīkāma (noun, masculine)
+[nominative single]
+tejaskāmo* -
+tejaskāma (noun, masculine)
+[nominative single]
+vibhāvasum -
+vibhāvasu (noun, masculine)
+[accusative single]
+vibhāvasu (noun, feminine)
+[accusative single]
+Line 2: “vasukāmo vasūn rudrān vīryakāmo'tha vīryavān ”
+vasukā -
+vasuka (noun, masculine)
+[compound], [vocative single]
+vasuka (noun, neuter)
+[compound], [vocative single]
+amo* -
+ama (noun, masculine)
+[nominative single]
+vasūn -
+vasu (noun, masculine)
+[accusative plural]
+rudrān -
+rudra (noun, masculine)
+[accusative plural]
+vīryakāmo' -
+vīryakāma (noun, masculine)
+[nominative single]
+atha -
+atha (indeclinable)
+[indeclinable]
+vīryavān -
+vīryavat (noun, masculine)
+[nominative single]
+
+Verse 2.3.4
+Line 1: “annādyakāmastu aditiṃ svargakāmo'diteḥ sutān ”
+annādyakāmas -
+annādyakāma (noun, masculine)
+[nominative single]
+tu -
+tu (indeclinable particle)
+[indeclinable particle]
+aditim -
+aditi (noun, feminine)
+[accusative single]
+aditi (noun, masculine)
+[accusative single]
+svargakāmo' -
+svargakāma (noun, masculine)
+[nominative single]
+aditeḥ -
+aditi (noun, feminine)
+[ablative single], [genitive single]
+aditi (noun, masculine)
+[ablative single], [genitive single]
+sutān -
+suta (noun, masculine)
+[accusative plural]
+√su -> suta (participle, masculine)
+[accusative plural from √su class 5 verb]
+√sū -> suta (participle, masculine)
+[accusative plural from √sū class 6 verb]
+√sū -> suta (participle, masculine)
+[accusative plural from √sū class 2 verb]
+Line 2: “viśvān devān rājyakāmaḥ sādhyān saṃsādhako viśām ”
+viśvān -
+viśva (noun, masculine)
+[accusative plural]
+devān -
+deva (noun, masculine)
+[accusative plural]
+rājya -
+rājya (noun, masculine)
+[compound], [vocative single]
+rājya (noun, neuter)
+[compound], [vocative single]
+rāji (noun, feminine)
+[compound], [adverb], [nominative dual], [vocative dual], [accusative dual]
+rāji (noun, masculine)
+[compound], [adverb], [nominative dual], [vocative dual], [accusative dual]
+rājī (noun, feminine)
+[compound], [adverb], [nominative single], [vocative single]
+rājin (noun, masculine)
+[compound], [adverb], [nominative single]
+√rāj -> rājya (participle, masculine)
+[compound from √rāj]
+√rāj -> rājya (participle, neuter)
+[compound from √rāj]
+√rāj -> rājya (absolutive)
+[absolutive from √rāj]
+√rāj -> rājya (absolutive)
+[absolutive from √rāj]
+√rāj -> rājya (participle, masculine)
+[vocative single from √rāj class 1 verb], [vocative single from √rāj]
+√rāj -> rājya (participle, neuter)
+[vocative single from √rāj class 1 verb], [vocative single from √rāj]
+rāj (noun, masculine)
+[locative single]
+rāj (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+akāmaḥ -
+akāma (noun, masculine)
+[nominative single]
+√ak (verb class 1)
+[present active first plural]
+sādhyān -
+sādhya (noun, masculine)
+[accusative plural]
+√sādh -> sādhya (participle, masculine)
+[accusative plural from √sādh class 1 verb], [accusative plural from √sādh class 4 verb], [accusative plural from √sādh class 5 verb]
+√sidh -> sādhya (participle, masculine)
+[accusative plural from √sidh]
+saṃsādhako* -
+saṃsādhaka (noun, masculine)
+[nominative single]
+viśām -
+viśā (noun, feminine)
+[accusative single]
+viś (noun, feminine)
+[genitive plural]
+
+Verse 2.3.5
+Line 1: “āyuṣkāmo'śvinau devau puṣṭikāma ilāṃ yajet ”
+āyuṣkāmo' -
+āyuṣkāma (noun, masculine)
+[nominative single]
+aśvinau -
+aśvin (noun, masculine)
+[nominative dual], [vocative dual], [accusative dual]
+aśvina (noun, masculine)
+[nominative dual], [vocative dual], [accusative dual]
+devau -
+deva (noun, masculine)
+[nominative dual], [vocative dual], [accusative dual]
+puṣṭikāma* -
+puṣṭikāma (noun, masculine)
+[nominative single]
+ilām -
+ilā (noun, feminine)
+[accusative single]
+yajet -
+√yaj (verb class 1)
+[optative active third single]
+Line 2: “pratiṣṭhākāmaḥ puruṣo rodasī lokamātarau ”
+pratiṣṭhākāmaḥ -
+pratiṣṭhākāma (noun, masculine)
+[nominative single]
+puruṣo* -
+puruṣa (noun, masculine)
+[nominative single]
+rodasī -
+rodasī (noun, feminine)
+[compound], [nominative single]
+rodas (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual]
+lokamāta -
+lokamāta (noun, masculine)
+[compound], [vocative single]
+lokamāta (noun, neuter)
+[compound], [vocative single]
+rau -
+ra (noun, masculine)
+[nominative dual], [vocative dual], [accusative dual]
+ru (noun, masculine)
+[locative single]
+
+Verse 2.3.6
+Line 1: “rūpābhikāmo gandharvān strīkāmo'psara urvaśīm ”
+rūpā -
+rūpa (noun, masculine)
+[compound], [vocative single]
+rūpa (noun, neuter)
+[compound], [vocative single]
+rūpā (noun, feminine)
+[nominative single]
+abhikāmo* -
+abhikāma (noun, masculine)
+[nominative single]
+gandharvān -
+gandharva (noun, masculine)
+[accusative plural]
+strīkāmo' -
+strīkāma (noun, masculine)
+[nominative single]
+apsara* -
+apsaras (noun, feminine)
+[compound], [vocative single]
+apsara (noun, masculine)
+[nominative single]
+urvaśīm -
+urvaśī (noun, feminine)
+[accusative single]
+Line 2: “ādhipatyakāmaḥ sarveṣāṃ yajeta parameṣṭhinam ”
+ādhipatya -
+ādhipatya (noun, neuter)
+[compound], [vocative single]
+akāmaḥ -
+akāma (noun, masculine)
+[nominative single]
+√ak (verb class 1)
+[present active first plural]
+sarveṣām -
+sarva (noun, masculine)
+[genitive plural]
+sarva (noun, neuter)
+[genitive plural]
+yajeta -
+√yaj (verb class 1)
+[optative active second plural], [optative middle third single]
+parameṣṭhinam -
+parameṣṭhina (noun, masculine)
+[adverb], [accusative single]
+parameṣṭhina (noun, neuter)
+[adverb], [nominative single], [accusative single]
+parameṣṭhin (noun, masculine)
+[accusative single]
+
+Verse 2.3.7
+Line 1: “yajñaṃ yajet yaśaskāmaḥ kośakāmaḥ pracetasam ”
+yajñam -
+yajña (noun, masculine)
+[adverb], [accusative single]
+yajet -
+√yaj (verb class 1)
+[optative active third single]
+yaśaskāmaḥ -
+yaśaskāma (noun, masculine)
+[nominative single]
+kośakā -
+kośaka (noun, masculine)
+[compound], [vocative single]
+kośaka (noun, neuter)
+[compound], [vocative single]
+amaḥ -
+ama (noun, masculine)
+[nominative single]
+pracetasam -
+pracetasa (noun, masculine)
+[adverb], [accusative single]
+pracetasa (noun, neuter)
+[adverb], [nominative single], [accusative single]
+pracetasā (noun, feminine)
+[adverb]
+pracetas (noun, masculine)
+[accusative single]
+Line 2: “vidyākāmastu giriśaṃ dāmpatyārtha umāṃ satīm ”
+vidyākāmas -
+vidyākāma (noun, masculine)
+[nominative single]
+tu -
+tu (indeclinable particle)
+[indeclinable particle]
+giriśam -
+giriśa (noun, masculine)
+[adverb], [accusative single]
+giriśā (noun, feminine)
+[adverb]
+dāmpatyā -
+dāmpatya (noun, neuter)
+[compound], [vocative single]
+artha*u -
+artha (noun, masculine)
+[locative single]
+artha (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+√arth (verb class 1)
+[present middle first single]
+um -
+u (noun, masculine)
+[accusative single]
+umām -
+umā (noun, feminine)
+[accusative single]
+satīm -
+satī (noun, feminine)
+[accusative single]
+
+Verse 2.3.8
+Line 1: “dharmārtha uttamaślokaṃ tantuṃ tanvan pitṝn yajet ”
+dharmārtha* -
+dharmārtha (noun, masculine)
+[nominative single]
+uttamaślokam -
+uttamaśloka (noun, masculine)
+[adverb], [accusative single]
+uttamaśloka (noun, neuter)
+[adverb], [nominative single], [accusative single]
+uttamaślokā (noun, feminine)
+[adverb]
+tantum -
+tantu (noun, masculine)
+[accusative single]
+tanvan -
+√tan -> tanvat (participle, masculine)
+[nominative single from √tan class 8 verb], [vocative single from √tan class 8 verb]
+pitṝn -
+pitṛ (noun, masculine)
+[accusative plural]
+yajet -
+√yaj (verb class 1)
+[optative active third single]
+Line 2: “rakṣākāmaḥ puṇyajanān ojaskāmo marud‍gaṇān ”
+rakṣā -
+rakṣa (noun, masculine)
+[compound], [vocative single]
+rakṣa (noun, neuter)
+[compound], [vocative single]
+rakṣā (noun, feminine)
+[nominative single]
+√rakṣ (verb class 1)
+[imperative active second single]
+akāmaḥ -
+akāma (noun, masculine)
+[nominative single]
+√ak (verb class 1)
+[present active first plural]
+puṇyajanān -
+puṇyajana (noun, masculine)
+[accusative plural]
+Cannot analyse ojaskāmo*ma
+Cannot analyse marud‍gaṇān
+
+Verse 2.3.9
+Line 1: “rājyakāmo manūn devān nirṛtiṃ tvabhicaran yajet ”
+rājya -
+rājya (noun, masculine)
+[compound], [vocative single]
+rājya (noun, neuter)
+[compound], [vocative single]
+rāji (noun, feminine)
+[compound], [adverb], [nominative dual], [vocative dual], [accusative dual]
+rāji (noun, masculine)
+[compound], [adverb], [nominative dual], [vocative dual], [accusative dual]
+rājī (noun, feminine)
+[compound], [adverb], [nominative single], [vocative single]
+rājin (noun, masculine)
+[compound], [adverb], [nominative single]
+√rāj -> rājya (participle, masculine)
+[compound from √rāj]
+√rāj -> rājya (participle, neuter)
+[compound from √rāj]
+√rāj -> rājya (absolutive)
+[absolutive from √rāj]
+√rāj -> rājya (absolutive)
+[absolutive from √rāj]
+√rāj -> rājya (participle, masculine)
+[vocative single from √rāj class 1 verb], [vocative single from √rāj]
+√rāj -> rājya (participle, neuter)
+[vocative single from √rāj class 1 verb], [vocative single from √rāj]
+rāj (noun, masculine)
+[locative single]
+rāj (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+akāmo* -
+akāma (noun, masculine)
+[nominative single]
+√ak (verb class 1)
+[present active first plural]
+manūn -
+manu (noun, masculine)
+[accusative plural]
+devān -
+deva (noun, masculine)
+[adverb], [accusative plural], [ablative single]
+deva (noun, neuter)
+[adverb], [ablative single]
+nirṛtim -
+nirṛti (noun, feminine)
+[accusative single]
+nirṛti (noun, masculine)
+[accusative single]
+tva -
+tu (indeclinable particle)
+[indeclinable particle]
+tva (noun, neuter)
+[compound], [vocative single]
+abhi -
+abhi (indeclinable preposition)
+[indeclinable preposition]
+abhi (noun, masculine)
+[compound], [adverb]
+abhi (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+abhi (noun, feminine)
+[compound], [adverb]
+abhī (noun, masculine)
+[adverb]
+abhī (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+abhī (noun, feminine)
+[adverb]
+ca -
+ca (indeclinable conjunction)
+[indeclinable conjunction]
+ca (noun, masculine)
+[compound], [vocative single]
+ca (noun, neuter)
+[compound], [vocative single]
+ran -
+yajet -
+√yaj (verb class 1)
+[optative active third single]
+Line 2: “kāmakāmo yajetsomaṃ akāmaḥ puruṣaṃ param ”
+kāmakāmo* -
+kāmakāma (noun, masculine)
+[nominative single]
+yajet -
+√yaj (verb class 1)
+[optative active third single]
+somam -
+soma (noun, masculine)
+[adverb], [accusative single]
+soma (noun, neuter)
+[adverb], [nominative single], [accusative single]
+somā (noun, feminine)
+[adverb]
+soman (noun, masculine)
+[adverb]
+akāmaḥ -
+akāma (noun, masculine)
+[nominative single]
+√ak (verb class 1)
+[present active first plural]
+puruṣam -
+puruṣa (noun, masculine)
+[adverb], [accusative single]
+puruṣa (noun, neuter)
+[adverb], [nominative single], [accusative single]
+puruṣā (noun, feminine)
+[adverb]
+param -
+param (indeclinable)
+[indeclinable]
+para (noun, masculine)
+[adverb], [accusative single]
+para (noun, neuter)
+[nominative single], [accusative single]
+
+
+Verse 2.3.10
+Line 1: “akāmaḥ sarvakāmo vā mokṣakāma udāradhīḥ ”
+akāmaḥ -
+akāma (noun, masculine)
+[nominative single]
+√ak (verb class 1)
+[present active first plural]
+sarvakāmo* -
+sarvakāma (noun, masculine)
+[nominative single]
+vā* -
+vār (noun, masculine)
+[adverb], [nominative single], [vocative single]
+vār (noun, neuter)
+[adverb], [nominative single], [vocative single], [accusative single]
+va (noun, masculine)
+[nominative plural], [vocative plural]
+vā (noun, feminine)
+[nominative plural], [vocative plural], [accusative plural]
+mokṣakāma*u -
+mokṣakāma (noun, masculine)
+[locative single]
+mokṣakāma (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+mokṣakāmā (noun, feminine)
+[nominative dual], [vocative single], [vocative dual], [accusative dual]
+ud -
+udāradhīḥ -
+udāradhī (noun, masculine)
+[nominative single]
+udāradhī (noun, feminine)
+[accusative plural]
+Line 2: “tīvreṇa bhaktiyogena yajeta puruṣaṃ param ”
+tīvreṇa -
+tīvra (noun, masculine)
+[instrumental single]
+tīvra (noun, neuter)
+[instrumental single]
+bhaktiyogena -
+bhaktiyoga (noun, masculine)
+[instrumental single]
+yajeta -
+√yaj (verb class 1)
+[optative active second plural], [optative middle third single]
+puruṣam -
+puruṣa (noun, masculine)
+[adverb], [accusative single]
+puruṣa (noun, neuter)
+[adverb], [nominative single], [accusative single]
+puruṣā (noun, feminine)
+[adverb]
+param -
+param (indeclinable)
+[indeclinable]
+para (noun, masculine)
+[adverb], [accusative single]
+para (noun, neuter)
+[nominative single], [accusative single]
+
+Verse 2.3.11
+Line 1: “etāvāneva yajatāṃ iha niḥśreyasodayaḥ ”
+etāvān -
+etāvat (noun, masculine)
+[nominative single]
+eva -
+eva (indeclinable particle)
+[indeclinable particle]
+eva (noun, masculine)
+[compound], [vocative single]
+eva (noun, neuter)
+[compound], [vocative single]
+yajatām -
+yajatā (noun, feminine)
+[accusative single]
+√yaj -> yajat (participle, masculine)
+[genitive plural from √yaj class 1 verb]
+√yaj -> yajat (participle, neuter)
+[genitive plural from √yaj class 1 verb]
+√yaj (verb class 1)
+[imperative active third dual], [imperative middle third single]
+iha -
+iha (indeclinable adverb)
+[indeclinable adverb]
+iha (indeclinable)
+[indeclinable]
+niḥśreyaso -
+niḥśreyasa (noun, masculine)
+[compound], [vocative single]
+niḥśreyasa (noun, neuter)
+[compound], [vocative single]
+udayaḥ -
+udaya (noun, masculine)
+[nominative single]
+Line 2: “bhagavatyacalo bhāvo yad‍bhāgavatasaṅgataḥ ”
+bhagavatya -
+bhagavatī (noun, feminine)
+[compound], [adverb], [nominative single], [vocative single]
+bhagavat (noun, masculine)
+[locative single]
+bhagavat (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+acalo* -
+acala (noun, masculine)
+[nominative single]
+√cal (verb class 1)
+[imperfect active second single]
+bhāvo* -
+Cannot analyse yad‍bhāgavatasaṅgataḥ
+
+Verse 2.3.12
+Line 1: “jñānaṃ yadāpratinivṛttaguṇormicakram ”
+jñānam -
+jñāna (noun, neuter)
+[adverb], [nominative single], [accusative single]
+jñānā (noun, feminine)
+[adverb]
+yadā -
+yadā (indeclinable adverb)
+[indeclinable adverb]
+yadā (indeclinable relative)
+[indeclinable relative]
+yadā (indeclinable)
+[indeclinable]
+yad (noun, masculine)
+[instrumental single]
+āpratinivṛttaguṇormicakram -
+āpratinivṛttaguṇormicakra (noun, masculine)
+[adverb], [accusative single]
+āpratinivṛttaguṇormicakra (noun, neuter)
+[adverb], [nominative single], [accusative single]
+āpratinivṛttaguṇormicakrā (noun, feminine)
+[adverb]
+Line 2: “ātmaprasāda uta yatra guṇeṣvasaṅgaḥ ”
+ātma -
+ātman (noun, masculine)
+[compound]
+prasāda* -
+prasāda (noun, masculine)
+[nominative single]
+uta -
+uta (noun, masculine)
+[compound], [vocative single]
+uta (noun, neuter)
+[compound], [vocative single]
+√vā -> uta (participle, masculine)
+[vocative single from √vā class 1 verb]
+√vā -> uta (participle, neuter)
+[vocative single from √vā class 1 verb]
+√u (verb class 2)
+[imperative active second plural]
+yatra -
+yatra (indeclinable relative)
+[indeclinable relative]
+yatra (indeclinable)
+[indeclinable]
+yatra (noun, masculine)
+[compound], [vocative single]
+yatra (noun, neuter)
+[compound], [vocative single]
+guṇeṣva -
+guṇa (noun, masculine)
+[locative plural]
+asaṅgaḥ -
+asaṅga (noun, masculine)
+[nominative single]
+Line 3: “kaivalyasammatapathastvatha bhaktiyogaḥ ”
+kaivalya -
+kaivalya (noun, masculine)
+[compound], [vocative single]
+kaivalya (noun, neuter)
+[compound], [vocative single]
+sammata -
+sammata (noun, masculine)
+[compound], [vocative single]
+sammata (noun, neuter)
+[compound], [vocative single]
+pathas -
+patha (noun, masculine)
+[nominative single]
+pathin (noun, masculine)
+[accusative plural], [ablative single], [genitive single]
+tvat -
+yuṣmad (pronoun, none)
+[ablative single]
+ha -
+ha (noun, masculine)
+[compound], [vocative single]
+ha (noun, neuter)
+[compound], [vocative single]
+han (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+bhaktiyogaḥ -
+bhaktiyoga (noun, masculine)
+[nominative single]
+Line 4: “ko nirvṛto harikathāsu ratiṃ na kuryāt ”
+ko* -
+kaḥ (indeclinable interrogative)
+[indeclinable interrogative]
+ka (noun, masculine)
+[nominative single]
+kaḥ (pronoun, masculine)
+[nominative single]
+nirvṛto* -
+nirvṛta (noun, masculine)
+[nominative single]
+harikathāsu -
+harikathā (noun, feminine)
+[locative plural]
+ratim -
+rati (noun, feminine)
+[accusative single]
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+kuryāt -
+√kṛ (verb class 8)
+[optative active third single]
+
+Verse 2.3.13
+Line 1: “śaunaka uvāca ”
+śaunaka* -
+śaunaka (noun, masculine)
+[nominative single]
+uvāca -
+√vac (verb class 2)
+[perfect active first single], [perfect active third single]
+√vac (verb class 3)
+[perfect active first single], [perfect active third single]
+Line 2: “ityabhivyāhṛtaṃ rājā niśamya bharatarṣabhaḥ ”
+itya -
+iti (indeclinable particle)
+[indeclinable particle]
+iti (noun, feminine)
+[compound], [adverb], [nominative dual], [vocative dual], [accusative dual]
+itya (noun, masculine)
+[compound], [vocative single]
+itya (noun, neuter)
+[compound], [vocative single]
+√i -> itya (absolutive)
+[absolutive from √i]
+√i -> itya (participle, masculine)
+[vocative single from √i class 2 verb]
+√i -> itya (participle, neuter)
+[vocative single from √i class 2 verb]
+abhivyāhṛtam -
+abhivyāhṛta (noun, masculine)
+[adverb], [accusative single]
+abhivyāhṛta (noun, neuter)
+[adverb], [nominative single], [accusative single]
+abhivyāhṛtā (noun, feminine)
+[adverb]
+rājā* -
+rāja (noun, masculine)
+[nominative plural], [vocative plural]
+rājā (noun, feminine)
+[nominative plural], [vocative plural], [accusative plural]
+niśam -
+niśam (indeclinable)
+[indeclinable]
+niśa (noun, neuter)
+[adverb], [nominative single], [accusative single]
+niśā (noun, feminine)
+[adverb]
+ya -
+bharatarṣabhaḥ -
+bharatarṣabha (noun, masculine)
+[nominative single]
+Line 3: “kimanyat pṛṣṭavān bhūyo vaiyāsakiṃ ṛṣiṃ kavim ”
+Cannot analyse kimanyat*pṛ
+pṛṣṭavān -
+√pṛṣ -> pṛṣṭavat (participle, masculine)
+[nominative single from √pṛṣ class 1 verb]
+√praś -> pṛṣṭavat (participle, masculine)
+[nominative single from √praś class 6 verb]
+pṛṣṭavat (noun, masculine)
+[nominative single]
+bhūyo* -
+bhūyaḥ (indeclinable)
+[indeclinable]
+bhūyas (noun, masculine)
+[compound], [adverb]
+bhūyas (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+vaiyāsakim -
+vaiyāsaki (noun, masculine)
+[accusative single]
+ṛṣim -
+ṛṣi (noun, masculine)
+[accusative single]
+kavim -
+kavi (noun, masculine)
+[accusative single]
+kavi (noun, feminine)
+[accusative single]
+
+Verse 2.3.14
+Line 1: “etad śuśrūṣatāṃ vidvan sūta no'rhasi bhāṣitum ”
+etad -
+etad (indeclinable)
+[indeclinable]
+śuśrūṣatām -
+√śru -> śuśrūṣat (participle, masculine)
+[genitive plural from √śru]
+√śru -> śuśrūṣat (participle, neuter)
+[genitive plural from √śru]
+√śru (verb class 0)
+[imperative active third dual], [imperative middle third single]
+vidvan -
+vidvan (noun, masculine)
+[vocative single]
+vidvan (noun, neuter)
+[vocative single]
+vidvas (noun, masculine)
+[vocative single]
+√vid -> vidvas (participle, masculine)
+[vocative single from √vid class 2 verb]
+sūta -
+sūta (noun, masculine)
+[compound], [vocative single]
+sūta (noun, neuter)
+[compound], [vocative single]
+√su -> sūta (participle, masculine)
+[vocative single from √su class 1 verb], [vocative single from √su class 2 verb]
+√su -> sūta (participle, neuter)
+[vocative single from √su class 1 verb], [vocative single from √su class 2 verb]
+√sū -> sūta (participle, masculine)
+[vocative single from √sū class 6 verb]
+√sū -> sūta (participle, neuter)
+[vocative single from √sū class 6 verb]
+√sū -> sūta (participle, masculine)
+[vocative single from √sū class 2 verb]
+√sū -> sūta (participle, neuter)
+[vocative single from √sū class 2 verb]
+no' -
+na (noun, masculine)
+[nominative single]
+nu (noun, masculine)
+[vocative single]
+asmad (pronoun, none)
+[accusative plural], [dative plural], [genitive plural]
+arhasi -
+√arh (verb class 1)
+[present active second single]
+bhāṣitum -
+√bhāṣ -> bhāṣitum (infinitive)
+[infinitive from √bhāṣ]
+Line 2: “kathā harikathodarkāḥ satāṃ syuḥ sadasi dhruvam ”
+kathā* -
+kathā (noun, feminine)
+[nominative plural], [vocative plural], [accusative plural]
+katha (noun, masculine)
+[nominative plural], [vocative plural]
+harikatho -
+harikathā (noun, feminine)
+[nominative single]
+udarkāḥ -
+udarka (noun, masculine)
+[nominative plural], [vocative plural]
+satām -
+sat (noun, masculine)
+[genitive plural]
+sat (noun, neuter)
+[genitive plural]
+syuḥ -
+√as (verb class 2)
+[optative active third plural]
+sadasi -
+sadas (noun, neuter)
+[locative single]
+√sad (verb class 6)
+[present active second single]
+dhruvam -
+dhruvam (indeclinable)
+[indeclinable]
+dhruva (noun, masculine)
+[adverb], [accusative single]
+dhruva (noun, neuter)
+[adverb], [nominative single], [accusative single]
+dhruvā (noun, feminine)
+[adverb]
+
+Verse 2.3.15
+Line 1: “sa vai bhāgavato rājā pāṇḍaveyo mahārathaḥ ”
+sa -
+sa (noun, neuter)
+[compound], [vocative single]
+sa (noun, masculine)
+[nominative single]
+vai -
+√vā (verb class 1)
+[present middle first single], [imperative middle first single]
+bhāgavato* -
+bhāgavata (noun, masculine)
+[nominative single]
+bhāgavat (noun, masculine)
+[accusative plural], [ablative single], [genitive single]
+bhāgavat (noun, feminine)
+[nominative plural], [vocative plural], [accusative plural], [ablative single], [genitive single]
+bhāgavat (noun, neuter)
+[ablative single], [genitive single]
+rājā -
+rājā (noun, feminine)
+[nominative single]
+rājan (noun, masculine)
+[nominative single]
+rāj (noun, masculine)
+[instrumental single]
+rāj (noun, neuter)
+[instrumental single]
+pāṇḍaveyo* -
+pāṇḍaveya (noun, masculine)
+[nominative single]
+mahārathaḥ -
+mahāratha (noun, masculine)
+[nominative single]
+Line 2: “bālakrīḍanakaiḥ krīḍan kṛṣṇakrīḍāṃ ya ādade ”
+bālakrīḍanakaiḥ -
+bālakrīḍanaka (noun, masculine)
+[instrumental plural]
+bālakrīḍanaka (noun, neuter)
+[instrumental plural]
+krīḍan -
+krīḍat (noun, masculine)
+[nominative single], [vocative single]
+√krīḍ -> krīḍat (participle, masculine)
+[nominative single from √krīḍ class 1 verb], [vocative single from √krīḍ class 1 verb]
+kṛṣṇa -
+kṛṣṇa (noun, masculine)
+[compound], [vocative single]
+kṛṣṇa (noun, neuter)
+[compound], [vocative single]
+krīḍām -
+krīḍā (noun, feminine)
+[accusative single]
+ya* -
+yaḥ (indeclinable relative)
+[indeclinable relative]
+ya (noun, masculine)
+[nominative single]
+yaḥ (pronoun, masculine)
+[nominative single]
+ādade -
+ādadi (noun, masculine)
+[vocative single]
+ādadi (noun, feminine)
+[vocative single]
+
+Verse 2.3.16
+Line 1: “vaiyāsakiśca bhagavān vāsudevaparāyaṇaḥ ”
+vaiyāsakiś -
+vaiyāsaki (noun, masculine)
+[nominative single]
+ca -
+ca (indeclinable conjunction)
+[indeclinable conjunction]
+ca (noun, masculine)
+[compound], [vocative single]
+ca (noun, neuter)
+[compound], [vocative single]
+bhagavān -
+bhagavat (noun, masculine)
+[nominative single]
+vāsudeva -
+vāsudeva (noun, masculine)
+[compound], [vocative single]
+vāsudeva (noun, neuter)
+[compound], [vocative single]
+parāyaṇaḥ -
+parāyaṇa (noun, masculine)
+[nominative single]
+Line 2: “urugāyaguṇodārāḥ satāṃ syurhi samāgame ”
+urugāya -
+urugāya (noun, masculine)
+[compound], [vocative single]
+urugāya (noun, neuter)
+[compound], [vocative single]
+guṇo -
+guṇa (noun, masculine)
+[compound], [vocative single]
+guṇā (noun, feminine)
+[nominative single]
+udārāḥ -
+udāra (noun, masculine)
+[nominative plural], [vocative plural]
+udārā (noun, feminine)
+[nominative plural], [vocative plural], [accusative plural]
+satām -
+sat (noun, masculine)
+[genitive plural]
+sat (noun, neuter)
+[genitive plural]
+syur -
+√as (verb class 2)
+[optative active third plural]
+hi -
+hi (indeclinable particle)
+[indeclinable particle]
+samāgame -
+samāgama (noun, masculine)
+[locative single]
+
+Verse 2.3.17
+Line 1: “āyurharati vai puṃsāṃ udyannastaṃ ca yannasau ”
+āyur -
+āyus (noun, masculine)
+[compound], [adverb], [nominative single], [vocative single]
+āyus (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+āyu (noun, masculine)
+[nominative single]
+āyu (noun, feminine)
+[nominative single]
+harati -
+√hṛ -> harat (participle, masculine)
+[locative single from √hṛ class 1 verb]
+√hṛ -> harat (participle, neuter)
+[locative single from √hṛ class 1 verb]
+√hṛ (verb class 1)
+[present active third single]
+vai -
+√vā (verb class 1)
+[present middle first single], [imperative middle first single]
+puṃsām -
+puṃs (noun, masculine)
+[genitive plural]
+udyann -
+udyat (noun, masculine)
+[nominative single], [vocative single]
+astam -
+astam (indeclinable)
+[indeclinable]
+asta (noun, masculine)
+[adverb], [accusative single]
+asta (noun, neuter)
+[adverb], [nominative single], [accusative single]
+astā (noun, feminine)
+[adverb]
+ca -
+ca (indeclinable conjunction)
+[indeclinable conjunction]
+ca (noun, masculine)
+[compound], [vocative single]
+ca (noun, neuter)
+[compound], [vocative single]
+yann -
+yat (noun, masculine)
+[vocative single]
+√i -> yat (participle, masculine)
+[nominative single from √i class 2 verb], [vocative single from √i class 2 verb]
+asau -
+asi (noun, feminine)
+[locative single]
+asi (noun, masculine)
+[locative single]
+asu (noun, masculine)
+[locative single]
+adaḥ (pronoun, masculine)
+[nominative single]
+adaḥ (pronoun, feminine)
+[nominative single]
+Line 2: “tasyarte yatkṣaṇo nīta uttamaślokavārtayā ”
+tasyar -
+√tas -> tasya (absolutive)
+[absolutive from √tas]
+ta (noun, masculine)
+[genitive single]
+ta (noun, neuter)
+[genitive single]
+tad (noun, neuter)
+[genitive single]
+sa (noun, masculine)
+[genitive single]
+√tas (verb class 4)
+[imperative active second single]
+ṛte -
+ṛte (indeclinable preposition)
+[indeclinable preposition]
+ṛte (indeclinable)
+[indeclinable]
+ṛta (noun, masculine)
+[locative single]
+ṛta (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+ṛtā (noun, feminine)
+[nominative dual], [vocative single], [vocative dual], [accusative dual]
+ṛti (noun, feminine)
+[vocative single]
+ṛti (noun, masculine)
+[vocative single]
+yat -
+yat (indeclinable relative)
+[indeclinable relative]
+yat (noun, masculine)
+[compound]
+yad (noun, masculine)
+[compound], [adverb], [nominative single], [vocative single]
+yat (noun, neuter)
+[nominative single], [vocative single], [accusative single]
+√i -> yat (participle, neuter)
+[nominative single from √i class 2 verb], [vocative single from √i class 2 verb], [accusative single from √i class 2 verb]
+yat (pronoun, neuter)
+[nominative single], [accusative single]
+kṣaṇo* -
+kṣaṇa (noun, masculine)
+[nominative single]
+nīta* -
+nīta (noun, masculine)
+[nominative single]
+√nī -> nīta (participle, masculine)
+[nominative single from √nī class 1 verb]
+uttamaśloka -
+uttamaśloka (noun, masculine)
+[compound], [vocative single]
+uttamaśloka (noun, neuter)
+[compound], [vocative single]
+vārtayā -
+vārtā (noun, feminine)
+[instrumental single]
+
+Verse 2.3.18
+Line 1: “taravaḥ kiṃ na jīvanti bhastrāḥ kiṃ na śvasantyuta ”
+taravaḥ -
+taru (noun, masculine)
+[nominative plural], [vocative plural]
+taru (noun, feminine)
+[nominative plural], [vocative plural]
+kim -
+kim (indeclinable interrogative)
+[indeclinable interrogative]
+kim (indeclinable)
+[indeclinable]
+kim (pronoun, neuter)
+[nominative single], [accusative single]
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+jīvanti -
+jīvanti (noun, masculine)
+[compound], [adverb]
+jīvantī (noun, feminine)
+[adverb], [vocative single]
+jīvat (noun, neuter)
+[nominative plural], [vocative plural], [accusative plural]
+√jīv -> jīvat (participle, neuter)
+[nominative plural from √jīv class 1 verb], [vocative plural from √jīv class 1 verb], [accusative plural from √jīv class 1 verb]
+√jīv -> jīvantī (participle, feminine)
+[vocative single from √jīv class 1 verb]
+√jīv (verb class 1)
+[present active third plural]
+bhastrāḥ -
+bhastrā (noun, feminine)
+[nominative plural], [vocative plural], [accusative plural]
+bhastra (noun, masculine)
+[nominative plural], [vocative plural]
+kim -
+kim (indeclinable interrogative)
+[indeclinable interrogative]
+kim (indeclinable)
+[indeclinable]
+kim (pronoun, neuter)
+[nominative single], [accusative single]
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+śvasantyu -
+√śvas -> śvasat (participle, neuter)
+[nominative dual from √śvas class 2 verb], [nominative plural from √śvas class 2 verb], [vocative dual from √śvas class 2 verb], [vocative plural from √śvas class 2 verb], [accusative dual from √śvas class 2 verb], [accusative plural from √śvas class 2 verb]
+√śvas (verb class 2)
+[present active third plural]
+uta -
+uta (noun, masculine)
+[compound], [vocative single]
+uta (noun, neuter)
+[compound], [vocative single]
+√vā -> uta (participle, masculine)
+[vocative single from √vā class 1 verb]
+√vā -> uta (participle, neuter)
+[vocative single from √vā class 1 verb]
+√u (verb class 2)
+[imperative active second plural]
+Line 2: “na khādanti na mehanti kiṃ grāmapaśavo'pare ”
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+khādanti -
+√khād -> khādat (participle, neuter)
+[nominative plural from √khād class 1 verb], [vocative plural from √khād class 1 verb], [accusative plural from √khād class 1 verb]
+√khād -> khādantī (participle, feminine)
+[vocative single from √khād class 1 verb]
+√khād (verb class 1)
+[present active third plural]
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+mehanti -
+√mih -> mehat (participle, neuter)
+[nominative plural from √mih class 1 verb], [vocative plural from √mih class 1 verb], [accusative plural from √mih class 1 verb]
+√mih -> mehantī (participle, feminine)
+[vocative single from √mih class 1 verb]
+√mih (verb class 1)
+[present active third plural]
+kim -
+kim (indeclinable interrogative)
+[indeclinable interrogative]
+kim (indeclinable)
+[indeclinable]
+kim (pronoun, neuter)
+[nominative single], [accusative single]
+grāma -
+grāma (noun, masculine)
+[compound], [vocative single]
+grāma (noun, neuter)
+[compound], [vocative single]
+paśavo' -
+paśu (noun, masculine)
+[nominative plural], [vocative plural]
+apare -
+apara (noun, masculine)
+[nominative plural], [locative single]
+apara (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+aparā (noun, feminine)
+[nominative dual], [vocative single], [vocative dual], [accusative dual]
+
+Verse 2.3.19
+Line 1: “śvaviḍvarāhoṣṭrakharaiḥ saṃstutaḥ puruṣaḥ paśuḥ ”
+śva -
+śvan (noun, masculine)
+[compound]
+viḍvarāho -
+viḍvarāha (noun, masculine)
+[compound], [vocative single]
+uṣṭrakharaiḥ -
+uṣṭrakhara (noun, neuter)
+[instrumental plural]
+saṃstutaḥ -
+saṃstuta (noun, masculine)
+[nominative single]
+puruṣaḥ -
+puruṣa (noun, masculine)
+[nominative single]
+paśuḥ -
+paśu (noun, masculine)
+[nominative single]
+Line 2: “na yatkarṇapathopeto jātu nāma gadāgrajaḥ ”
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+yat -
+yat (indeclinable relative)
+[indeclinable relative]
+yat (noun, masculine)
+[compound]
+yad (noun, masculine)
+[compound], [adverb], [nominative single], [vocative single]
+yat (noun, neuter)
+[nominative single], [vocative single], [accusative single]
+√i -> yat (participle, neuter)
+[nominative single from √i class 2 verb], [vocative single from √i class 2 verb], [accusative single from √i class 2 verb]
+yat (pronoun, neuter)
+[nominative single], [accusative single]
+karṇapatho -
+karṇapatha (noun, masculine)
+[compound], [vocative single]
+upeto* -
+upetṛ (noun, masculine)
+[vocative single]
+upeta (noun, masculine)
+[nominative single]
+jātu -
+jātu (indeclinable)
+[indeclinable]
+jātu (noun, masculine)
+[compound], [adverb]
+jātu (noun, feminine)
+[compound], [adverb]
+jātu (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+jātū (noun, masculine)
+[adverb], [vocative single]
+jātū (noun, feminine)
+[compound], [adverb], [vocative single]
+jātū (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+nāma -
+nāman (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+gadāgrajaḥ -
+gadāgraja (noun, masculine)
+[nominative single]
+
+Verse 2.3.20
+Line 1: “bile batorukramavikramān ye ”
+bile -
+bila (noun, masculine)
+[locative single]
+bila (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+bilā (noun, feminine)
+[nominative dual], [vocative single], [vocative dual], [accusative dual]
+√bil (verb class 6)
+[present middle first single]
+bato -
+bata (noun, masculine)
+[compound], [vocative single]
+urukrama -
+urukrama (noun, masculine)
+[compound], [vocative single]
+urukrama (noun, neuter)
+[compound], [vocative single]
+vikramān -
+vikrama (noun, masculine)
+[accusative plural]
+ye -
+ya (noun, masculine)
+[nominative plural]
+yā (noun, feminine)
+[nominative dual], [accusative dual]
+yaḥ (pronoun, masculine)
+[nominative plural]
+yat (pronoun, neuter)
+[nominative dual], [accusative dual]
+yā (pronoun, feminine)
+[nominative dual], [accusative dual]
+Line 2: “na śṛṇvataḥ karṇapuṭe narasya ”
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+śṛṇvataḥ -
+√śru -> śṛṇvat (participle, masculine)
+[accusative plural from √śru class 5 verb], [ablative single from √śru class 5 verb], [genitive single from √śru class 5 verb]
+√śru -> śṛṇvat (participle, neuter)
+[ablative single from √śru class 5 verb], [genitive single from √śru class 5 verb]
+karṇapuṭe -
+karṇapuṭa (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+narasya -
+nara (noun, masculine)
+[genitive single]
+nara (noun, neuter)
+[genitive single]
+Line 3: “jihvāsatī dārdurikeva sūta ”
+jihvā -
+jihva (noun, masculine)
+[compound], [vocative single]
+jihva (noun, neuter)
+[compound], [vocative single]
+jihvā (noun, feminine)
+[nominative single]
+asatī -
+asatī (noun, feminine)
+[compound], [nominative single]
+asat (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual]
+dārdurike -
+dārdurika (noun, masculine)
+[compound], [vocative single], [locative single]
+dārdurika (noun, neuter)
+[compound], [nominative dual], [vocative single], [vocative dual], [accusative dual], [locative single]
+dārdurikā (noun, feminine)
+[nominative single], [nominative dual], [vocative single], [vocative dual], [accusative dual]
+iva -
+iva (indeclinable adverb)
+[indeclinable adverb]
+iva (indeclinable)
+[indeclinable]
+sūta -
+sūta (noun, masculine)
+[compound], [vocative single]
+sūta (noun, neuter)
+[compound], [vocative single]
+√su -> sūta (participle, masculine)
+[vocative single from √su class 1 verb], [vocative single from √su class 2 verb]
+√su -> sūta (participle, neuter)
+[vocative single from √su class 1 verb], [vocative single from √su class 2 verb]
+√sū -> sūta (participle, masculine)
+[vocative single from √sū class 6 verb]
+√sū -> sūta (participle, neuter)
+[vocative single from √sū class 6 verb]
+√sū -> sūta (participle, masculine)
+[vocative single from √sū class 2 verb]
+√sū -> sūta (participle, neuter)
+[vocative single from √sū class 2 verb]
+Line 4: “na copagāyatyurugāyagāthāḥ ”
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+copa -
+√cup (verb class 1)
+[imperative active second single]
+gāyatyu -
+gāyat (noun, masculine)
+[locative single]
+gāyat (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+√gā (verb class 1)
+[present active third single]
+urugāya -
+urugāya (noun, masculine)
+[compound], [vocative single]
+urugāya (noun, neuter)
+[compound], [vocative single]
+gāthāḥ -
+gātha (noun, masculine)
+[nominative plural], [vocative plural]
+gāthā (noun, feminine)
+[nominative plural], [vocative plural], [accusative plural]
+
+Verse 2.3.21
+Line 1: “bhāraḥ paraṃ paṭṭakirīṭajuṣṭaṃ ”
+bhāraḥ -
+bhāra (noun, masculine)
+[nominative single]
+param -
+param (indeclinable)
+[indeclinable]
+para (noun, masculine)
+[adverb], [accusative single]
+para (noun, neuter)
+[nominative single], [accusative single]
+paṭṭa -
+paṭṭa (noun, masculine)
+[compound], [vocative single]
+√paṭ -> paṭṭa (participle, masculine)
+[vocative single from √paṭ class 1 verb]
+√paṭ -> paṭṭa (participle, neuter)
+[vocative single from √paṭ class 1 verb]
+kirīṭa -
+kirīṭa (noun, masculine)
+[compound], [vocative single]
+kirīṭa (noun, neuter)
+[compound], [vocative single]
+juṣṭam -
+juṣṭa (noun, masculine)
+[adverb], [accusative single]
+juṣṭa (noun, neuter)
+[adverb], [nominative single], [accusative single]
+juṣṭā (noun, feminine)
+[adverb]
+√juṣ -> juṣṭa (participle, masculine)
+[accusative single from √juṣ class 1 verb], [accusative single from √juṣ class 3 verb], [accusative single from √juṣ class 6 verb]
+√juṣ -> juṣṭa (participle, neuter)
+[nominative single from √juṣ class 1 verb], [accusative single from √juṣ class 1 verb], [nominative single from √juṣ class 3 verb], [accusative single from √juṣ class 3 verb], [nominative single from √juṣ class 6 verb], [accusative single from √juṣ class 6 verb]
+Line 2: “apyuttamāṅgaṃ na namen mukuṃdam ”
+apyu -
+api (indeclinable preposition)
+[indeclinable preposition]
+ap (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+uttamāṅgam -
+uttamāṅga (noun, neuter)
+[adverb], [nominative single], [accusative single]
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+namen -
+√nam (verb class 1)
+[optative active third single]
+mukundam -
+mukunda (noun, masculine)
+[adverb], [accusative single]
+mukundā (noun, feminine)
+[adverb]
+Line 3: “śāvau karau no kurute saparyāṃ ”
+śāvau -
+śāva (noun, masculine)
+[nominative dual], [vocative dual], [accusative dual]
+karau -
+kari (noun, masculine)
+[locative single]
+kari (noun, feminine)
+[locative single]
+kara (noun, masculine)
+[nominative dual], [vocative dual], [accusative dual]
+no -
+nu (noun, masculine)
+[vocative single]
+kurute -
+kurutā (noun, feminine)
+[nominative dual], [vocative single], [vocative dual], [accusative dual]
+kuruta (noun, masculine)
+[locative single]
+kuruta (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+√kṛ (verb class 8)
+[present middle third single]
+saparyām -
+saparyā (noun, feminine)
+[accusative single]
+Line 4: “harerlasatkāñcanakaṅkaṇau vā ”
+harer -
+hari (noun, masculine)
+[ablative single], [genitive single]
+hari (noun, feminine)
+[ablative single], [genitive single]
+√hṛ (verb class 1)
+[optative active second single]
+lasat -
+√las -> lasat (participle, neuter)
+[nominative single from √las class 1 verb], [vocative single from √las class 1 verb], [accusative single from √las class 1 verb]
+kāñcana -
+kāñcana (noun, masculine)
+[compound], [vocative single]
+kāñcana (noun, neuter)
+[compound], [vocative single]
+kaṅkaṇau -
+kaṅkaṇa (noun, masculine)
+[nominative dual], [vocative dual], [accusative dual]
+vā -
+vā (indeclinable conjunction)
+[indeclinable conjunction]
+vā (noun, feminine)
+[nominative single]
+√vā (verb class 1)
+[imperative active second single]
+
+Verse 2.3.22
+Line 1: “barhāyite te nayane narāṇāṃ ”
+barhāyite -
+barhāyita (noun, masculine)
+[locative single]
+barhāyita (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+barhāyitā (noun, feminine)
+[nominative dual], [vocative single], [vocative dual], [accusative dual]
+te -
+ta (noun, masculine)
+[locative single]
+ta (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+tā (noun, feminine)
+[nominative dual], [vocative single], [vocative dual], [accusative dual]
+tad (noun, neuter)
+[nominative dual], [accusative dual]
+sa (noun, masculine)
+[nominative plural]
+sā (noun, feminine)
+[nominative dual], [accusative dual]
+yuṣmad (pronoun, none)
+[dative single], [genitive single]
+nayane -
+nayana (noun, masculine)
+[locative single]
+nayana (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+nayanā (noun, feminine)
+[nominative dual], [vocative single], [vocative dual], [accusative dual]
+narāṇām -
+nara (noun, masculine)
+[genitive plural]
+nara (noun, neuter)
+[genitive plural]
+narā (noun, feminine)
+[genitive plural]
+Line 2: “liṅgāni viṣṇorna nirīkṣato ye ”
+liṅgāni -
+liṅga (noun, neuter)
+[nominative plural], [vocative plural], [accusative plural]
+√liṅg (verb class 1)
+[imperative active first single]
+viṣṇor -
+viṣṇu (noun, feminine)
+[ablative single], [genitive single]
+viṣṇu (noun, masculine)
+[ablative single], [genitive single]
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+nir -
+niḥ (indeclinable adverb)
+[indeclinable adverb]
+niḥ (indeclinable)
+[indeclinable]
+ni (noun, masculine)
+[nominative single]
+ni (noun, feminine)
+[nominative single]
+īkṣa -
+īkṣa (noun, masculine)
+[compound], [vocative single]
+īkṣa (noun, neuter)
+[compound], [vocative single]
+to* -
+tas (noun, masculine)
+[compound], [vocative single]
+tas (noun, neuter)
+[compound], [nominative single], [vocative single], [accusative single]
+ta (noun, masculine)
+[nominative single]
+ye -
+ya (noun, masculine)
+[nominative plural]
+yā (noun, feminine)
+[nominative dual], [accusative dual]
+yaḥ (pronoun, masculine)
+[nominative plural]
+yat (pronoun, neuter)
+[nominative dual], [accusative dual]
+yā (pronoun, feminine)
+[nominative dual], [accusative dual]
+Line 3: “pādau nṛṇāṃ tau drumajanmabhājau ”
+pādau -
+pāda (noun, masculine)
+[nominative dual], [vocative dual], [accusative dual]
+pādu (noun, masculine)
+[locative single]
+nṛṇām -
+nṛ (noun, masculine)
+[genitive plural]
+tau -
+ta (noun, masculine)
+[nominative dual], [vocative dual], [accusative dual]
+sa (noun, masculine)
+[nominative dual], [accusative dual]
+druma -
+druma (noun, masculine)
+[compound], [vocative single]
+janmabhājau -
+janmabhāj (noun, masculine)
+[nominative dual], [vocative dual], [accusative dual]
+Line 4: “kṣetrāṇi nānuvrajato hareryau ”
+kṣetrāṇi -
+kṣetra (noun, neuter)
+[nominative plural], [vocative plural], [accusative plural]
+nānu -
+nānū (noun, masculine)
+[adverb], [vocative single]
+vrajato* -
+√vraj -> vrajat (participle, masculine)
+[accusative plural from √vraj class 1 verb], [ablative single from √vraj class 1 verb], [genitive single from √vraj class 1 verb]
+√vraj -> vrajat (participle, neuter)
+[ablative single from √vraj class 1 verb], [genitive single from √vraj class 1 verb]
+√vraj (verb class 1)
+[present active third dual]
+harer -
+hari (noun, masculine)
+[ablative single], [genitive single]
+hari (noun, feminine)
+[ablative single], [genitive single]
+√hṛ (verb class 1)
+[optative active second single]
+yau -
+yu (noun, masculine)
+[locative single]
+yu (noun, feminine)
+[locative single]
+ya (noun, masculine)
+[nominative dual], [accusative dual]
+yaḥ (pronoun, masculine)
+[nominative dual], [accusative dual]
+
+Verse 2.3.23
+Line 1: “jīvan śavo bhāgavatāṅghrireṇuṃ ”
+jīvan -
+jīvat (noun, masculine)
+[nominative single], [vocative single]
+√jīv -> jīvat (participle, masculine)
+[nominative single from √jīv class 1 verb], [vocative single from √jīv class 1 verb]
+jīvan (noun, masculine)
+[vocative single]
+śavo* -
+śavas (noun, masculine)
+[adverb]
+śavas (noun, neuter)
+[adverb]
+śava (noun, masculine)
+[nominative single]
+bhāgavatā -
+bhāgavata (noun, masculine)
+[compound], [vocative single]
+bhāgavata (noun, neuter)
+[compound], [vocative single]
+bhāgavat (noun, masculine)
+[instrumental single]
+bhāgavat (noun, feminine)
+[instrumental single]
+bhāgavat (noun, neuter)
+[instrumental single]
+aṅghri -
+aṅghri (noun, masculine)
+[compound], [adverb]
+reṇum -
+reṇu (noun, masculine)
+[accusative single]
+Line 2: “na jātu martyo'bhilabheta yastu ”
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+jātu -
+jātu (indeclinable)
+[indeclinable]
+jātu (noun, masculine)
+[compound], [adverb]
+jātu (noun, feminine)
+[compound], [adverb]
+jātu (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+jātū (noun, masculine)
+[adverb], [vocative single]
+jātū (noun, feminine)
+[compound], [adverb], [vocative single]
+jātū (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+martyo' -
+martya (noun, masculine)
+[nominative single]
+abhi -
+abhi (indeclinable preposition)
+[indeclinable preposition]
+abhi (noun, masculine)
+[compound], [adverb]
+abhi (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+abhi (noun, feminine)
+[compound], [adverb]
+abhī (noun, masculine)
+[adverb]
+abhī (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+abhī (noun, feminine)
+[adverb]
+abhi (Preverb)
+[Preverb]
+labheta -
+√labh (verb class 1)
+[optative active second plural], [optative middle third single]
+yas -
+yaḥ (indeclinable relative)
+[indeclinable relative]
+ya (noun, masculine)
+[nominative single]
+yaḥ (pronoun, masculine)
+[nominative single]
+tu -
+tu (indeclinable particle)
+[indeclinable particle]
+Line 3: “śrīviṣṇupadyā manujastulasyāḥ ”
+śrīviṣṇupadyā* -
+śrīviṣṇupadī (noun, feminine)
+[ablative single], [genitive single]
+manujas -
+manuja (noun, masculine)
+[nominative single]
+tulasyāḥ -
+tulasī (noun, feminine)
+[ablative single], [genitive single]
+Line 4: “śvasan śavo yastu na veda gandham ”
+śvasan -
+√śvas -> śvasat (participle, masculine)
+[nominative single from √śvas class 2 verb], [vocative single from √śvas class 2 verb]
+śavo* -
+śavas (noun, masculine)
+[adverb]
+śavas (noun, neuter)
+[adverb]
+śava (noun, masculine)
+[nominative single]
+yas -
+yaḥ (indeclinable relative)
+[indeclinable relative]
+ya (noun, masculine)
+[nominative single]
+yaḥ (pronoun, masculine)
+[nominative single]
+tu -
+tu (indeclinable particle)
+[indeclinable particle]
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+veda -
+veda (noun, masculine)
+[compound], [vocative single]
+√vid (verb class 2)
+[perfect active first single], [perfect active third single]
+gandham -
+gandha (noun, masculine)
+[adverb], [accusative single]
+gandha (noun, neuter)
+[adverb], [nominative single], [accusative single]
+gandhā (noun, feminine)
+[adverb]
+
+Verse 2.3.24
+Line 1: “tadaśmasāraṃ hṛdayaṃ batedaṃ ”
+tada -
+tada (noun, masculine)
+[compound], [vocative single]
+tada (noun, neuter)
+[compound], [vocative single]
+śma -
+śman (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+sāram -
+sāra (noun, masculine)
+[adverb], [accusative single]
+sāra (noun, neuter)
+[adverb], [nominative single], [accusative single]
+sārā (noun, feminine)
+[adverb]
+√sṛ -> sāram (absolutive)
+[absolutive from √sṛ]
+√sṛ -> sāram (absolutive)
+[absolutive from √sṛ]
+hṛdayam -
+hṛdaya (noun, masculine)
+[adverb], [accusative single]
+hṛdaya (noun, neuter)
+[adverb], [nominative single], [accusative single]
+hṛdayā (noun, feminine)
+[adverb]
+bate -
+bata (noun, masculine)
+[compound], [vocative single], [locative single]
+idam -
+idam (pronoun, neuter)
+[nominative single], [accusative single]
+Line 2: “yad‍gṛhyamāṇairharināmadheyaiḥ ”
+Cannot analyse yad‍gṛhyamāṇairharināmadheyaiḥ
+Line 3: “na vikriyetātha yadā vikāro ”
+na -
+na (indeclinable particle)
+[indeclinable particle]
+na (noun, masculine)
+[compound], [vocative single]
+na (noun, neuter)
+[compound], [vocative single]
+vikriye -
+vikriyā (noun, feminine)
+[nominative single], [nominative dual], [vocative single], [vocative dual], [accusative dual]
+itāt -
+ita (noun, masculine)
+[adverb], [ablative single]
+ita (noun, neuter)
+[adverb], [ablative single]
+√i -> ita (participle, masculine)
+[ablative single from √i class 2 verb]
+√i -> ita (participle, neuter)
+[ablative single from √i class 2 verb]
+ha -
+ha (noun, masculine)
+[compound], [vocative single]
+ha (noun, neuter)
+[compound], [vocative single]
+han (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+yadā -
+yadā (indeclinable adverb)
+[indeclinable adverb]
+yadā (indeclinable relative)
+[indeclinable relative]
+yadā (indeclinable)
+[indeclinable]
+yad (noun, masculine)
+[instrumental single]
+vikā -
+vika (noun, masculine)
+[compound], [vocative single]
+vika (noun, neuter)
+[compound], [vocative single]
+aro -
+aru (noun, masculine)
+[vocative single]
+Line 4: “netre jalaṃ gātraruheṣu harṣaḥ ”
+netre -
+netṛ (noun, masculine)
+[dative single]
+netra (noun, masculine)
+[locative single]
+netra (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+jalam -
+jala (noun, masculine)
+[adverb], [accusative single]
+jala (noun, neuter)
+[adverb], [nominative single], [accusative single]
+jalā (noun, feminine)
+[adverb]
+gātraruheṣu -
+gātraruha (noun, neuter)
+[locative plural]
+harṣaḥ -
+harṣa (noun, masculine)
+[nominative single]
+
+Verse 2.3.25
+Line 1: “athābhidhehyaṅga mano'nukūlaṃ ”
+athā -
+athā (indeclinable)
+[indeclinable]
+atha (indeclinable)
+[indeclinable]
+abhidhe -
+abhidhā (noun, feminine)
+[nominative single], [nominative dual], [vocative single], [vocative dual], [accusative dual]
+ihya -
+√i (verb class 2)
+[imperative active second single]
+aṅga -
+aṅga (noun, masculine)
+[compound], [vocative single]
+aṅga (noun, neuter)
+[compound], [vocative single]
+√aṅg (verb class 1)
+[imperative active second single]
+mano' -
+manas (noun, neuter)
+[compound], [nominative single], [vocative single], [accusative single]
+mana (noun, masculine)
+[nominative single]
+manu (noun, masculine)
+[vocative single]
+manu (noun, feminine)
+[vocative single]
+anukūlam -
+anukūla (noun, masculine)
+[adverb], [accusative single]
+anukūla (noun, neuter)
+[adverb], [nominative single], [accusative single]
+anukūlā (noun, feminine)
+[adverb]
+Line 2: “prabhāṣase bhāgavatapradhānaḥ ”
+prabhāṣa -
+prabhāṣa (noun, masculine)
+[compound], [vocative single]
+se -
+si (noun, feminine)
+[vocative single]
+sa (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+√as (verb class 2)
+[present middle second single]
+bhāgavata -
+bhāgavata (noun, masculine)
+[compound], [vocative single]
+bhāgavata (noun, neuter)
+[compound], [vocative single]
+pradhānaḥ -
+pradhāna (noun, masculine)
+[nominative single]
+Line 3: “yadāha vaiyāsakirātmavidyā ”
+yadā -
+yadā (indeclinable adverb)
+[indeclinable adverb]
+yadā (indeclinable relative)
+[indeclinable relative]
+yadā (indeclinable)
+[indeclinable]
+yad (noun, masculine)
+[instrumental single]
+aha -
+aha (noun, neuter)
+[compound], [vocative single]
+vaiyāsakir -
+vaiyāsaki (noun, masculine)
+[nominative single]
+ātmavidyā -
+ātmavidyā (noun, feminine)
+[nominative single]
+Line 4: “viśārado nṛpatiṃ sādhu pṛṣṭaḥ ”
+viśārado* -
+viśārada (noun, masculine)
+[nominative single]
+nṛpatim -
+nṛpati (noun, masculine)
+[accusative single]
+sādhu -
+sādhu (indeclinable)
+[indeclinable]
+sādhu (indeclinable adverb)
+[indeclinable adverb]
+sādhu (noun, masculine)
+[compound], [adverb]
+sādhu (noun, neuter)
+[compound], [adverb], [nominative single], [vocative single], [accusative single]
+pṛṣṭaḥ -
+pṛṣṭa (noun, masculine)
+[nominative single]
+√pṛṣ -> pṛṣṭa (participle, masculine)
+[nominative single from √pṛṣ class 1 verb]
+√praś -> pṛṣṭa (participle, masculine)
+[nominative single from √praś class 6 verb]
+
+Verse 2.3.26
+Line 1: “iti śrīmadbhāgavate mahāpurāṇe pāramahaṃsyāṃ saṃhitāyāṃ ”
+iti -
+iti (indeclinable particle)
+[indeclinable particle]
+iti (noun, feminine)
+[compound], [adverb]
+śrīmadbhāgavate -
+śrīmadbhāgavata (noun, masculine)
+[locative single]
+śrīmadbhāgavata (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+mahāpurāṇe -
+mahāpurāṇa (noun, neuter)
+[nominative dual], [vocative dual], [accusative dual], [locative single]
+pāramahaṃsyām -
+pāramahaṃsī (noun, feminine)
+[locative single]
+pāramahaṃsyā (noun, feminine)
+[accusative single]
+saṃhitāyām -
+saṃhitā (noun, feminine)
+[locative single]
+Line 2: “dvitīyaskaṃdhe tṛtīyo'dhyāyaḥ ”
+dvitīya -
+dvitīya (noun, masculine)
+[compound], [vocative single]
+dvitīya (noun, neuter)
+[compound], [vocative single]
+skandhe -
+skandha (noun, masculine)
+[locative single]
+skandhā (noun, feminine)
+[nominative dual], [vocative single], [vocative dual], [accusative dual]
+tṛtīyo' -
+tṛtīya (noun, masculine)
+[nominative single]
+adhyāyaḥ -
+adhyāya (noun, masculine)
+[nominative single]
+√dhyā (verb class 1)
+[imperfect active second single]
+
+

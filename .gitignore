@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Playwright / browser profiles
+.browser-profile/
+data/scraped/.browser-profile/
+
+# Scraped HTML cache (regenerate with scrape_chapter.py)
+data/scraped/*.html
+
+# Scrape logs
+data/scraped/*_scrape.log
+
+# Editor / OS
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
