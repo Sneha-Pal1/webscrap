@@ -2,25 +2,258 @@
     {
         "verse": "1",
         "devanagari": "श्रीशुक उवाच – । अत्रानुवर्ण्यतेऽभीक्ष्णं विश्वात्मा भगवान् हरिः । यस्य प्रसादजो ब्रह्मा रुद्रः क्रोधसमुद्भवः ॥ १ ॥",
-        "english_devnagari": "śrīśuka uvāca –atrānuvarṇyate'bhīkṣṇaṃ viśvātmā bhagavān hariḥyasya prasādajo brahmā rudraḥ krodhasamudbhavaḥ",
+        "english_devnagari": "śrīśuka uvāca – atrānuvarṇyate yasya prasādajo brahmā rudraḥ krodhasamudbhavaḥ",
         "verse_Syn": [
-            "śrīśuka",
-            "uvāca",
-            "–",
-            "atrā",
-            "nu",
-            "varṇyate'",
-            "abhīkṣṇam",
-            "viśvātmā",
-            "bhagavān",
-            "hariḥ",
-            "yasya",
-            "prasāda",
-            "jo",
-            "brahmā",
-            "rudraḥ",
-            "krodha",
-            "samudbhavaḥ"
+            {
+                "word": "śrīśuka",
+                "analyses": [
+                    {
+                        "base_word_": "śrīśuka",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "uvāca",
+                "analyses": [
+                    {
+                        "base_word_": "√ vac",
+                        "lexical_category": "verb class 2",
+                        "morph_synt_analysis": "[perfect active first single], [perfect active third single]"
+                    },
+                    {
+                        "base_word_": "√ vac",
+                        "lexical_category": "verb class 3",
+                        "morph_synt_analysis": "[perfect active first single], [perfect active third single]"
+                    },
+                    {
+                        "base_word_": "Cannot analyse –",
+                        "lexical_category": "",
+                        "morph_synt_analysis": ""
+                    }
+                ]
+            },
+            {
+                "word": "atrā",
+                "analyses": [
+                    {
+                        "base_word_": "atrā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "nu",
+                "analyses": [
+                    {
+                        "base_word_": "nu",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "nu",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb]"
+                    },
+                    {
+                        "base_word_": "nau",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    }
+                ]
+            },
+            {
+                "word": "varṇyate'",
+                "analyses": [
+                    {
+                        "base_word_": "√ varṇ",
+                        "lexical_category": "verb class 10",
+                        "morph_synt_analysis": "[present passive third single]"
+                    }
+                ]
+            },
+            {
+                "word": "abhīkṣṇam",
+                "analyses": [
+                    {
+                        "base_word_": "abhīkṣṇam",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "abhīkṣṇa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "abhīkṣṇa",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "abhīkṣṇā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    }
+                ]
+            },
+            {
+                "word": "viśvātmā",
+                "analyses": [
+                    {
+                        "base_word_": "viśvātman",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "bhagavān",
+                "analyses": [
+                    {
+                        "base_word_": "bhagavat",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "hariḥ",
+                "analyses": [
+                    {
+                        "base_word_": "hari",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "hari",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "yasya",
+                "analyses": [
+                    {
+                        "base_word_": "yasya",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "yasya",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "√ yas -> yasya",
+                        "lexical_category": "absolutive",
+                        "morph_synt_analysis": "[absolutive from √ yas ]"
+                    },
+                    {
+                        "base_word_": "ya",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[genitive single]"
+                    },
+                    {
+                        "base_word_": "yaḥ",
+                        "lexical_category": "pronoun, masculine",
+                        "morph_synt_analysis": "[genitive single]"
+                    },
+                    {
+                        "base_word_": "yat",
+                        "lexical_category": "pronoun, neuter",
+                        "morph_synt_analysis": "[genitive single]"
+                    },
+                    {
+                        "base_word_": "√ yas",
+                        "lexical_category": "verb class 4",
+                        "morph_synt_analysis": "[imperative active second single]"
+                    }
+                ]
+            },
+            {
+                "word": "prasāda",
+                "analyses": [
+                    {
+                        "base_word_": "prasāda",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "jo",
+                "analyses": [
+                    {
+                        "base_word_": "ja",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "brahmā",
+                "analyses": [
+                    {
+                        "base_word_": "brahma",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative plural], [vocative plural]"
+                    },
+                    {
+                        "base_word_": "brahmā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative plural], [vocative plural], [accusative plural]"
+                    }
+                ]
+            },
+            {
+                "word": "rudraḥ",
+                "analyses": [
+                    {
+                        "base_word_": "rudra",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "krodha",
+                "analyses": [
+                    {
+                        "base_word_": "krodha",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "krodha",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "krodhan",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound]"
+                    },
+                    {
+                        "base_word_": "krodhan",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "samudbhavaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "samudbhava",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            }
         ],
         "translation": "Śrī Śuka said:\n(This Bhāgavata Mahāpurāṇa inspires fear-less-ness even from death as) herein every now and then is extolled the Almighty Lord Hari, the Soul and controller of the universe, of whose gracious joy (a trait of rajas) was born god Brahmā, the creator of the world and of whose anger was created Ṛuḍra, the destroyer of the world (and both are hence subordinate to and dependent on him).",
         "purport": ""
@@ -28,27 +261,338 @@
     {
         "verse": "2",
         "devanagari": "त्वं तु राजन् मरिष्येति पशुबुद्धिमिमां जहि । न जातः प्रागभूतोऽद्य देहवत्त्वं न नङ्क्ष्यसि ॥ २ ॥",
-        "english_devnagari": "tvaṃ tu rājan mariṣyeti paśubuddhimimāṃ jahina jātaḥ prāgabhūto'dya dehavattvaṃ na naṅkṣyasi",
+        "english_devnagari": "tvaṃ tu rājan mariṣyeti paśubuddhimimāṃ jahi na jātaḥ prāgabhūto",
         "verse_Syn": [
-            "tvam",
-            "tu",
-            "rājan",
-            "ma",
-            "riṣye",
-            "eti",
-            "paśu",
-            "buddhim",
-            "imām",
-            "jahi",
-            "na",
-            "jātaḥ",
-            "prāg",
-            "abhūto'",
-            "adya",
-            "dehavat",
-            "tvam",
-            "na",
-            "naṅkṣyasi"
+            {
+                "word": "tvam",
+                "analyses": [
+                    {
+                        "base_word_": "tva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "tva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative single]"
+                    },
+                    {
+                        "base_word_": "yuṣmad",
+                        "lexical_category": "pronoun, none",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "tu",
+                "analyses": [
+                    {
+                        "base_word_": "tu",
+                        "lexical_category": "indeclinable particle",
+                        "morph_synt_analysis": "[indeclinable particle]"
+                    }
+                ]
+            },
+            {
+                "word": "rājan",
+                "analyses": [
+                    {
+                        "base_word_": "rājan",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[vocative single]"
+                    },
+                    {
+                        "base_word_": "√ rāj -> rājat",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[nominative single from √ rāj class 1 verb], [vocative single from √ rāj class 1 verb]"
+                    },
+                    {
+                        "base_word_": "√ rāj -> rājat",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[nominative single from √ rāj class 1 verb], [vocative single from √ rāj class 1 verb], [accusative single from √ rāj class 1 verb]"
+                    }
+                ]
+            },
+            {
+                "word": "ma",
+                "analyses": [
+                    {
+                        "base_word_": "ma",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "ma",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "riṣye",
+                "analyses": [
+                    {
+                        "base_word_": "riṣi",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative dual], [vocative dual], [accusative dual]"
+                    },
+                    {
+                        "base_word_": "riṣ",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "riṣya",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "√ riṣ",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[present passive first single]"
+                    },
+                    {
+                        "base_word_": "√ riṣ",
+                        "lexical_category": "verb class 4",
+                        "morph_synt_analysis": "[present passive first single]"
+                    }
+                ]
+            },
+            {
+                "word": "eti",
+                "analyses": [
+                    {
+                        "base_word_": "eti",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[compound], [adverb]"
+                    },
+                    {
+                        "base_word_": "√ i",
+                        "lexical_category": "verb class 2",
+                        "morph_synt_analysis": "[present active third single]"
+                    }
+                ]
+            },
+            {
+                "word": "paśu",
+                "analyses": [
+                    {
+                        "base_word_": "paśu",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb]"
+                    },
+                    {
+                        "base_word_": "paśū",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [vocative single]"
+                    },
+                    {
+                        "base_word_": "paśū",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[compound], [adverb], [vocative single]"
+                    },
+                    {
+                        "base_word_": "paśū",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "buddhim",
+                "analyses": [
+                    {
+                        "base_word_": "buddhi",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "imām",
+                "analyses": [
+                    {
+                        "base_word_": "iyam",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[accusative single]"
+                    },
+                    {
+                        "base_word_": "idam",
+                        "lexical_category": "pronoun, feminine",
+                        "morph_synt_analysis": "[accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "jahi",
+                "analyses": [
+                    {
+                        "base_word_": "jahi",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb]"
+                    },
+                    {
+                        "base_word_": "jahi",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[compound], [adverb]"
+                    },
+                    {
+                        "base_word_": "jahi",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "√ han",
+                        "lexical_category": "verb class 2",
+                        "morph_synt_analysis": "[imperative active second single]"
+                    }
+                ]
+            },
+            {
+                "word": "na",
+                "analyses": [
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "indeclinable particle",
+                        "morph_synt_analysis": "[indeclinable particle]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "jātaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "jātṛ",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[vocative single]"
+                    },
+                    {
+                        "base_word_": "jāta",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "√ jan -> jāta",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[nominative single from √ jan class 1 verb], [nominative single from √ jan class 2 verb], [nominative single from √ jan class 3 verb], [nominative single from √ jan class 4 verb]"
+                    }
+                ]
+            },
+            {
+                "word": "prāg",
+                "analyses": [
+                    {
+                        "base_word_": "prāk",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    }
+                ]
+            },
+            {
+                "word": "abhūto'",
+                "analyses": [
+                    {
+                        "base_word_": "abhūta",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "adya",
+                "analyses": [
+                    {
+                        "base_word_": "adya",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "adya",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "adya",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "dehavat",
+                "analyses": [
+                    {
+                        "base_word_": "dehavat",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound]"
+                    },
+                    {
+                        "base_word_": "dehavat",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative single], [vocative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "tvam",
+                "analyses": [
+                    {
+                        "base_word_": "tva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "tva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative single]"
+                    },
+                    {
+                        "base_word_": "yuṣmad",
+                        "lexical_category": "pronoun, none",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "na",
+                "analyses": [
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "indeclinable particle",
+                        "morph_synt_analysis": "[indeclinable particle]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "naṅkṣyasi",
+                "analyses": [
+                    {
+                        "base_word_": "√ naś",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[future active second single]"
+                    }
+                ]
+            }
         ],
         "translation": "O King! Please do give up this brute-like (foolish) notion (identifying the Soul with one’s physical body) that you will die. Unlike (your) body (which did not exist before the moment of its birth and hence shall naturally perish), you i.e. your soul did pre-exist (your physical body), is now in existence and shall never die (irrespective of what happens to your body).",
         "purport": ""
@@ -56,22 +600,208 @@
     {
         "verse": "3",
         "devanagari": "न भविष्यसि भूत्वा त्वं पुत्रपौत्रादिरूपवान् । बीजाङ्कुरवद् देहादेः व्यतिरिक्तो यथानलः ॥ ३ ॥",
-        "english_devnagari": "na bhaviṣyasi bhūtvā tvaṃ putrapautrādirūpavānbījāṅkuravad dehādeḥ vyatirikto yathānalaḥ",
+        "english_devnagari": "na bhaviṣyasi bhūtvā tvaṃ putrapautrādirūpavān bījāṅkuravad dehādeḥ vyatirikto yathānalaḥ",
         "verse_Syn": [
-            "na",
-            "bhaviṣyasi",
-            "bhūtvā",
-            "tvam",
-            "putrapautrād",
-            "ir",
-            "ūpa",
-            "vān",
-            "bījāṅkuravad",
-            "dehād",
-            "eḥ",
-            "vyatirikto",
-            "yathā",
-            "analaḥ"
+            {
+                "word": "na",
+                "analyses": [
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "indeclinable particle",
+                        "morph_synt_analysis": "[indeclinable particle]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "bhaviṣyasi",
+                "analyses": [
+                    {
+                        "base_word_": "√ bhū",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[future active second single]"
+                    }
+                ]
+            },
+            {
+                "word": "bhūtvā",
+                "analyses": [
+                    {
+                        "base_word_": "√ bhū -> bhūtvā",
+                        "lexical_category": "absolutive",
+                        "morph_synt_analysis": "[absolutive from √ bhū ]"
+                    }
+                ]
+            },
+            {
+                "word": "tvam",
+                "analyses": [
+                    {
+                        "base_word_": "tva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "tva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative single]"
+                    },
+                    {
+                        "base_word_": "yuṣmad",
+                        "lexical_category": "pronoun, none",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "putrapautrād",
+                "analyses": [
+                    {
+                        "base_word_": "putrapautra",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [ablative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ir",
+                "analyses": [
+                    {
+                        "base_word_": "i",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ūpa",
+                "analyses": [
+                    {
+                        "base_word_": "√ vap",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[perfect active second plural]"
+                    },
+                    {
+                        "base_word_": "√ vap",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[perfect active second plural]"
+                    }
+                ]
+            },
+            {
+                "word": "vān",
+                "analyses": [
+                    {
+                        "base_word_": "va",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative plural]"
+                    },
+                    {
+                        "base_word_": "√ vā -> vāt",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[nominative single from √ vā class 2 verb], [vocative single from √ vā class 2 verb]"
+                    },
+                    {
+                        "base_word_": "√ vā -> vāt",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[nominative single from √ vā class 1 verb], [vocative single from √ vā class 1 verb]"
+                    }
+                ]
+            },
+            {
+                "word": "bījāṅkuravad",
+                "analyses": [
+                    {
+                        "base_word_": "bījāṅkuravat",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    }
+                ]
+            },
+            {
+                "word": "dehād",
+                "analyses": [
+                    {
+                        "base_word_": "deha",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [ablative single]"
+                    },
+                    {
+                        "base_word_": "deha",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [ablative single]"
+                    }
+                ]
+            },
+            {
+                "word": "eḥ",
+                "analyses": [
+                    {
+                        "base_word_": "i",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[ablative single], [genitive single]"
+                    },
+                    {
+                        "base_word_": "e",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single], [vocative single], [ablative single], [genitive single]"
+                    }
+                ]
+            },
+            {
+                "word": "vyatirikto",
+                "analyses": [
+                    {
+                        "base_word_": "vyatirikta",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "yathā",
+                "analyses": [
+                    {
+                        "base_word_": "yathā",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "yathā",
+                        "lexical_category": "indeclinable relative",
+                        "morph_synt_analysis": "[indeclinable relative]"
+                    },
+                    {
+                        "base_word_": "yathā",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    }
+                ]
+            },
+            {
+                "word": "analaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "anala",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "√ nal",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[imperfect active second single]"
+                    }
+                ]
+            }
         ],
         "translation": "You are quite distinct from your body, etc., just as fire (though potentially abiding in fuel) is distinct from the fuel. Hence, on the analogy of seeds and trees, you i.e. your soul (being once a father[1]) shall not take the form of a son, a grandson, etc.",
         "purport": "Footnote [1]:\nBhāvāratha Dīpikā explains: The quotations from Śrutis e.g. ātmā vai putra-nāmāsi, support physical heredity and not a continuity of one’s soul—dehād deho jāyate na ātmā. Hence in this physical continuity of the race, the soul is not involved."
@@ -79,24 +809,263 @@
     {
         "verse": "4",
         "devanagari": "स्वप्ने यथा शिरश्छेदं पञ्चत्वाद्यात्मनः स्वयम् । यस्मात्पश्यति देहस्य तत आत्मा ह्यजोऽमरः ॥ ४ ॥",
-        "english_devnagari": "svapne yathā śiraśchedaṃ pañcatvādyātmanaḥ svayamyasmātpaśyati dehasya tata ātmā hyajo'maraḥ",
+        "english_devnagari": "svapne yathā śiraśchedaṃ pañcatvādyātmanaḥ svayam yasmātpaśyati dehasya tata ātmā hyajo",
         "verse_Syn": [
-            "svapne",
-            "yathā",
-            "śiraśchedam",
-            "pañcatvād",
-            "yāt",
-            "manaḥ",
-            "svayam",
-            "yasmāt",
-            "paśyati",
-            "dehasya",
-            "tata*ā",
-            "āt",
-            "ātmā",
-            "hya",
-            "ajo'",
-            "amaraḥ"
+            {
+                "word": "svapne",
+                "analyses": [
+                    {
+                        "base_word_": "svapna",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "svapna",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative dual], [vocative dual], [accusative dual], [locative single]"
+                    },
+                    {
+                        "base_word_": "svapnā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative dual], [vocative single], [vocative dual], [accusative dual]"
+                    }
+                ]
+            },
+            {
+                "word": "yathā",
+                "analyses": [
+                    {
+                        "base_word_": "yathā",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "yathā",
+                        "lexical_category": "indeclinable relative",
+                        "morph_synt_analysis": "[indeclinable relative]"
+                    },
+                    {
+                        "base_word_": "yathā",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    }
+                ]
+            },
+            {
+                "word": "śiraśchedam",
+                "analyses": [
+                    {
+                        "base_word_": "śiraścheda",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "pañcatvād",
+                "analyses": [
+                    {
+                        "base_word_": "pañcatva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [ablative single]"
+                    }
+                ]
+            },
+            {
+                "word": "yāt",
+                "analyses": [
+                    {
+                        "base_word_": "yāt",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound]"
+                    },
+                    {
+                        "base_word_": "yāt",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative single], [vocative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "manaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "manas",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [nominative single], [vocative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "mana",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "svayam",
+                "analyses": [
+                    {
+                        "base_word_": "svayam",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    }
+                ]
+            },
+            {
+                "word": "yasmāt",
+                "analyses": [
+                    {
+                        "base_word_": "yasmāt",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "ya",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[ablative single]"
+                    },
+                    {
+                        "base_word_": "yaḥ",
+                        "lexical_category": "pronoun, masculine",
+                        "morph_synt_analysis": "[ablative single]"
+                    },
+                    {
+                        "base_word_": "yat",
+                        "lexical_category": "pronoun, neuter",
+                        "morph_synt_analysis": "[ablative single]"
+                    }
+                ]
+            },
+            {
+                "word": "paśyati",
+                "analyses": [
+                    {
+                        "base_word_": "paśyat",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "paśyat",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[locative single]"
+                    }
+                ]
+            },
+            {
+                "word": "dehasya",
+                "analyses": [
+                    {
+                        "base_word_": "deha",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[genitive single]"
+                    },
+                    {
+                        "base_word_": "deha",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[genitive single]"
+                    }
+                ]
+            },
+            {
+                "word": "tata*ā",
+                "analyses": [
+                    {
+                        "base_word_": "tata",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "tata",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative dual], [vocative dual], [accusative dual], [locative single]"
+                    },
+                    {
+                        "base_word_": "tatā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative dual], [vocative single], [vocative dual], [accusative dual]"
+                    },
+                    {
+                        "base_word_": "tati",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[vocative single]"
+                    },
+                    {
+                        "base_word_": "√ tan -> tata",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[locative single from √ tan class 8 verb]"
+                    },
+                    {
+                        "base_word_": "√ tan -> tata",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[nominative dual from √ tan class 8 verb], [vocative dual from √ tan class 8 verb], [accusative dual from √ tan class 8 verb], [locative single from √ tan class 8 verb]"
+                    },
+                    {
+                        "base_word_": "√ tan -> tatā",
+                        "lexical_category": "participle, feminine",
+                        "morph_synt_analysis": "[nominative dual from √ tan class 8 verb], [vocative single from √ tan class 8 verb], [vocative dual from √ tan class 8 verb], [accusative dual from √ tan class 8 verb]"
+                    }
+                ]
+            },
+            {
+                "word": "āt",
+                "analyses": [
+                    {
+                        "base_word_": "āt",
+                        "lexical_category": "indeclinable particle",
+                        "morph_synt_analysis": "[indeclinable particle]"
+                    },
+                    {
+                        "base_word_": "a",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [ablative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ātmā",
+                "analyses": [
+                    {
+                        "base_word_": "ātmā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative plural], [vocative plural], [accusative plural]"
+                    }
+                ]
+            },
+            {
+                "word": "hya",
+                "analyses": [
+                    {
+                        "base_word_": "hi",
+                        "lexical_category": "indeclinable particle",
+                        "morph_synt_analysis": "[indeclinable particle]"
+                    }
+                ]
+            },
+            {
+                "word": "ajo'",
+                "analyses": [
+                    {
+                        "base_word_": "aja",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "amaraḥ",
+                "analyses": [
+                    {
+                        "base_word_": "amara",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "√ mṛ",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[imperfect active second single]"
+                    }
+                ]
+            }
         ],
         "translation": "Just as a person sees in his dream that he is beheaded (when factually he is the unaffected party or a witness to the scene of cutting the head of his body in the dream state), so also in a state of wakefulness he sees the death of his body. But as a matter of fact the Soul (ātman) is neither born nor dead.",
         "purport": ""
@@ -104,24 +1073,322 @@
     {
         "verse": "5",
         "devanagari": "घटे भिन्ने घटाकाश आकाशः स्याद् यथा पुरा । एवं देहे मृते जीवो ब्रह्म सम्पद्यते पुनः ॥ ५ ॥",
-        "english_devnagari": "ghaṭe bhinne ghaṭākāśa ākāśaḥ syād yathā purāevaṃ dehe mṛte jīvo brahma sampadyate punaḥ",
+        "english_devnagari": "ghaṭe bhinne ghaṭākāśa ākāśaḥ syād yathā purā evaṃ dehe mṛte jīvo brahma sampadyate punaḥ",
         "verse_Syn": [
-            "ghaṭe",
-            "bhinne",
-            "ghaṭā",
-            "ākāśa",
-            "ākāśaḥ",
-            "syād",
-            "yathā",
-            "purā",
-            "evam",
-            "dehe",
-            "mṛte",
-            "jīvo",
-            "brahma",
-            "sampadya",
-            "ate",
-            "punaḥ"
+            {
+                "word": "ghaṭe",
+                "analyses": [
+                    {
+                        "base_word_": "ghaṭa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "ghaṭa",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative dual], [vocative dual], [accusative dual], [locative single]"
+                    },
+                    {
+                        "base_word_": "ghaṭā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative dual], [vocative single], [vocative dual], [accusative dual]"
+                    },
+                    {
+                        "base_word_": "ghaṭi",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[vocative single]"
+                    },
+                    {
+                        "base_word_": "√ ghaṭ",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[present middle first single]"
+                    }
+                ]
+            },
+            {
+                "word": "bhinne",
+                "analyses": [
+                    {
+                        "base_word_": "bhinna",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "bhinna",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative dual], [vocative dual], [accusative dual], [locative single]"
+                    },
+                    {
+                        "base_word_": "bhinnā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative dual], [vocative single], [vocative dual], [accusative dual]"
+                    }
+                ]
+            },
+            {
+                "word": "ghaṭā",
+                "analyses": [
+                    {
+                        "base_word_": "ghaṭa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "ghaṭa",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "ghaṭā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ākāśa",
+                "analyses": [
+                    {
+                        "base_word_": "ākāśa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ākāśaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "ākāśa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "syād",
+                "analyses": [
+                    {
+                        "base_word_": "syāt",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "syāt",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "sya",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [ablative single]"
+                    },
+                    {
+                        "base_word_": "√ as",
+                        "lexical_category": "verb class 2",
+                        "morph_synt_analysis": "[optative active third single]"
+                    }
+                ]
+            },
+            {
+                "word": "yathā",
+                "analyses": [
+                    {
+                        "base_word_": "yathā",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "yathā",
+                        "lexical_category": "indeclinable relative",
+                        "morph_synt_analysis": "[indeclinable relative]"
+                    },
+                    {
+                        "base_word_": "yathā",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    }
+                ]
+            },
+            {
+                "word": "purā",
+                "analyses": [
+                    {
+                        "base_word_": "purā",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "pur",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[instrumental single]"
+                    },
+                    {
+                        "base_word_": "purā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "evam",
+                "analyses": [
+                    {
+                        "base_word_": "evam",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "evam",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "eva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "eva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "evā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    }
+                ]
+            },
+            {
+                "word": "dehe",
+                "analyses": [
+                    {
+                        "base_word_": "deha",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "deha",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative dual], [vocative dual], [accusative dual], [locative single]"
+                    }
+                ]
+            },
+            {
+                "word": "mṛte",
+                "analyses": [
+                    {
+                        "base_word_": "mṛta",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "mṛta",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative dual], [vocative dual], [accusative dual], [locative single]"
+                    },
+                    {
+                        "base_word_": "mṛtā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative dual], [vocative single], [vocative dual], [accusative dual]"
+                    },
+                    {
+                        "base_word_": "mṛti",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[vocative single]"
+                    },
+                    {
+                        "base_word_": "√ mṛ -> mṛta",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[locative single from √ mṛ class 1 verb], [locative single from √ mṛ class 6 verb]"
+                    },
+                    {
+                        "base_word_": "√ mṛ -> mṛta",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[nominative dual from √ mṛ class 1 verb], [vocative dual from √ mṛ class 1 verb], [accusative dual from √ mṛ class 1 verb], [locative single from √ mṛ class 1 verb], [nominative dual from √ mṛ class 6 verb], [vocative dual from √ mṛ class 6 verb], [accusative dual from √ mṛ class 6 verb], [locative single from √ mṛ class 6 verb]"
+                    },
+                    {
+                        "base_word_": "√ mṛ -> mṛtā",
+                        "lexical_category": "participle, feminine",
+                        "morph_synt_analysis": "[nominative dual from √ mṛ class 1 verb], [vocative single from √ mṛ class 1 verb], [vocative dual from √ mṛ class 1 verb], [accusative dual from √ mṛ class 1 verb], [nominative dual from √ mṛ class 6 verb], [vocative single from √ mṛ class 6 verb], [vocative dual from √ mṛ class 6 verb], [accusative dual from √ mṛ class 6 verb]"
+                    }
+                ]
+            },
+            {
+                "word": "jīvo",
+                "analyses": [
+                    {
+                        "base_word_": "jīva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "brahma",
+                "analyses": [
+                    {
+                        "base_word_": "brahma",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "brahma",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "brahman",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "√ brahm",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[imperative active second single]"
+                    }
+                ]
+            },
+            {
+                "word": "sampadya",
+                "analyses": [
+                    {
+                        "base_word_": "sampadin",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single]"
+                    },
+                    {
+                        "base_word_": "sampad",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[locative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ate",
+                "analyses": []
+            },
+            {
+                "word": "punaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "pu",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[ablative single], [genitive single]"
+                    },
+                    {
+                        "base_word_": "puna",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "pū",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[ablative single], [genitive single]"
+                    }
+                ]
+            }
         ],
         "translation": "When an earthen pot is broken, the space enclosed within the pot becomes the same as before (the creation of that pot), in the same way when (after self-realization which destroys all Karmas) the body falls off, the individual soul becomes one with Brahman).[2]",
         "purport": "Footnote [2]:\nBhāgavata Candrikā: Becomes a mukta—an emancipated soul. Viśiṣṭādvaita presumes the continuity of the distinct identity of the soul even in the Mokṣa stage and not its absorption and loss in Paramātman."
@@ -129,22 +1396,238 @@
     {
         "verse": "6",
         "devanagari": "मनः सृजति वै देहान् गुणान् कर्माणि चात्मनः । तन्मनः सृजते माया ततो जीवस्य संसृतिः ॥ ६ ॥",
-        "english_devnagari": "manaḥ sṛjati vai dehān guṇān karmāṇi cātmanaḥtanmanaḥ sṛjate māyā tato jīvasya saṃsṛtiḥ",
+        "english_devnagari": "manaḥ sṛjati vai dehān guṇān karmāṇi cātmanaḥ tanmanaḥ sṛjate māyā tato jīvasya saṃsṛtiḥ",
         "verse_Syn": [
-            "manaḥ",
-            "sṛjati",
-            "vai",
-            "dehān",
-            "guṇān",
-            "karmāṇi",
-            "cāt",
-            "manaḥ",
-            "tanmanaḥ",
-            "sṛjate",
-            "māyā",
-            "tato",
-            "jīvasya",
-            "saṃsṛtiḥ"
+            {
+                "word": "manaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "manas",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [nominative single], [vocative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "mana",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "sṛjati",
+                "analyses": [
+                    {
+                        "base_word_": "sṛjati",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb]"
+                    },
+                    {
+                        "base_word_": "√ sṛj -> sṛjat",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[locative single from √ sṛj class 6 verb]"
+                    },
+                    {
+                        "base_word_": "√ sṛj -> sṛjat",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[locative single from √ sṛj class 6 verb]"
+                    },
+                    {
+                        "base_word_": "√ sṛj",
+                        "lexical_category": "verb class 6",
+                        "morph_synt_analysis": "[present active third single]"
+                    }
+                ]
+            },
+            {
+                "word": "vai",
+                "analyses": [
+                    {
+                        "base_word_": "√ vā",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[present middle first single], [imperative middle first single]"
+                    }
+                ]
+            },
+            {
+                "word": "dehān",
+                "analyses": [
+                    {
+                        "base_word_": "deha",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative plural]"
+                    }
+                ]
+            },
+            {
+                "word": "guṇān",
+                "analyses": [
+                    {
+                        "base_word_": "guṇa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative plural]"
+                    }
+                ]
+            },
+            {
+                "word": "karmāṇi",
+                "analyses": [
+                    {
+                        "base_word_": "karman",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative plural], [vocative plural], [accusative plural]"
+                    }
+                ]
+            },
+            {
+                "word": "cāt",
+                "analyses": [
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [ablative single]"
+                    },
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [ablative single]"
+                    }
+                ]
+            },
+            {
+                "word": "manaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "manas",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [nominative single], [vocative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "mana",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "tanmanaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "tanmanas",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "tanmanas",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [nominative single], [vocative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "tanman",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[ablative single], [genitive single]"
+                    }
+                ]
+            },
+            {
+                "word": "sṛjate",
+                "analyses": [
+                    {
+                        "base_word_": "sṛjati",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[vocative single]"
+                    },
+                    {
+                        "base_word_": "√ sṛj -> sṛjat",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[dative single from √ sṛj class 6 verb]"
+                    },
+                    {
+                        "base_word_": "√ sṛj -> sṛjat",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[dative single from √ sṛj class 6 verb]"
+                    }
+                ]
+            },
+            {
+                "word": "māyā",
+                "analyses": [
+                    {
+                        "base_word_": "māyā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "tato",
+                "analyses": [
+                    {
+                        "base_word_": "tataḥ",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "tataḥ",
+                        "lexical_category": "indeclinable correlative",
+                        "morph_synt_analysis": "[indeclinable correlative]"
+                    },
+                    {
+                        "base_word_": "tataḥ",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "tad",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[ablative single], [ablative dual], [ablative plural]"
+                    },
+                    {
+                        "base_word_": "tata",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "√ tan -> tata",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[nominative single from √ tan class 8 verb]"
+                    },
+                    {
+                        "base_word_": "sa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[ablative single], [ablative dual], [ablative plural]"
+                    },
+                    {
+                        "base_word_": "sā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[ablative single], [ablative dual], [ablative plural]"
+                    }
+                ]
+            },
+            {
+                "word": "jīvasya",
+                "analyses": [
+                    {
+                        "base_word_": "jīva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[genitive single]"
+                    },
+                    {
+                        "base_word_": "jīva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[genitive single]"
+                    }
+                ]
+            },
+            {
+                "word": "saṃsṛtiḥ",
+                "analyses": [
+                    {
+                        "base_word_": "saṃsṛti",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            }
         ],
         "translation": "It is the Māyā that creates the mind[3]. The mind creates these bodies, objects of senses and actions of the soul. Hence it is due to the Māyā that the jīva (individual soul) is involved in transmigration of saṃsāra.",
         "purport": "Footnote [3]:\nPadaratnāvalī: Māyā is the unintelligent (jaḍa) matter. So its creation—the mind—is also Jaḍa. The use of the Ātmanepaḍa sṛjate in tanmanaḥ sṛjate māyā, in the text of this verse indicates that it is due to the mind’s contact with the intelligent being that activates it and enables it do all these (Sṛjata ityātmane- pada-prayogeṇa cin-miśram mana iti sūcayati)."
@@ -152,30 +1635,413 @@
     {
         "verse": "7",
         "devanagari": "स्नेहाधिष्ठानवर्त्यग्नि संयोगो यावदीयते । ततो दीपस्य दीपत्वं एवं देहकृतो भवः । रजःसत्त्वतमोवृत्त्या जायतेऽथ विनश्यति ॥ ७ ॥",
-        "english_devnagari": "snehādhiṣṭhānavartyagni saṃyogo yāvadīyatetato dīpasya dīpatvaṃ evaṃ dehakṛto bhavaḥrajaḥsattvatamovṛttyā jāyate'tha vinaśyati",
+        "english_devnagari": "snehādhiṣṭhānavartyagni saṃyogo yāvadīyate tato dīpasya dīpatvaṃ evaṃ dehakṛto bhavaḥ rajaḥsattvatamovṛttyā jāyate",
         "verse_Syn": [
-            "snehā",
-            "adhiṣṭhāna",
-            "vartya",
-            "agni",
-            "saṃyogo",
-            "yāvad",
-            "īyate",
-            "tato",
-            "dīpasya",
-            "dīpa",
-            "tvam",
-            "evam",
-            "dehakṛto",
-            "bhavaḥ",
-            "rajaḥ",
-            "sattvata",
-            "mo",
-            "vṛttyā",
-            "jāyate'",
-            "atha",
-            "vina",
-            "śyati"
+            {
+                "word": "snehā",
+                "analyses": [
+                    {
+                        "base_word_": "sneha",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "snehan",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "√ snih",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[imperative active second single]"
+                    }
+                ]
+            },
+            {
+                "word": "adhiṣṭhāna",
+                "analyses": [
+                    {
+                        "base_word_": "adhiṣṭhāna",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "vartya",
+                "analyses": [
+                    {
+                        "base_word_": "varti",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative dual], [vocative dual], [accusative dual]"
+                    },
+                    {
+                        "base_word_": "vartī",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single]"
+                    },
+                    {
+                        "base_word_": "vartin",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single]"
+                    },
+                    {
+                        "base_word_": "vartin",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "√ vṛt -> vartya",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[compound from √ vṛt ]"
+                    },
+                    {
+                        "base_word_": "√ vṛt -> vartya",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[compound from √ vṛt ]"
+                    },
+                    {
+                        "base_word_": "√ vṛt -> vartya",
+                        "lexical_category": "absolutive",
+                        "morph_synt_analysis": "[absolutive from √ vṛt ]"
+                    },
+                    {
+                        "base_word_": "√ vṛt -> vartya",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[vocative single from √ vṛt ]"
+                    },
+                    {
+                        "base_word_": "√ vṛt -> vartya",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[vocative single from √ vṛt ]"
+                    }
+                ]
+            },
+            {
+                "word": "agni",
+                "analyses": [
+                    {
+                        "base_word_": "agni",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb]"
+                    }
+                ]
+            },
+            {
+                "word": "saṃyogo",
+                "analyses": [
+                    {
+                        "base_word_": "saṃyoga",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "yāvad",
+                "analyses": [
+                    {
+                        "base_word_": "yāvat",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "yāvat",
+                        "lexical_category": "indeclinable relative",
+                        "morph_synt_analysis": "[indeclinable relative]"
+                    },
+                    {
+                        "base_word_": "yāvat",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound]"
+                    },
+                    {
+                        "base_word_": "yāvat",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative single], [vocative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "īyate",
+                "analyses": [
+                    {
+                        "base_word_": "√ i",
+                        "lexical_category": "verb class 2",
+                        "morph_synt_analysis": "[present passive third single]"
+                    },
+                    {
+                        "base_word_": "√ yā",
+                        "lexical_category": "verb class 2",
+                        "morph_synt_analysis": "[present passive third single]"
+                    }
+                ]
+            },
+            {
+                "word": "tato",
+                "analyses": [
+                    {
+                        "base_word_": "tataḥ",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "tataḥ",
+                        "lexical_category": "indeclinable correlative",
+                        "morph_synt_analysis": "[indeclinable correlative]"
+                    },
+                    {
+                        "base_word_": "tataḥ",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "tad",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[ablative single], [ablative dual], [ablative plural]"
+                    },
+                    {
+                        "base_word_": "tata",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "√ tan -> tata",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[nominative single from √ tan class 8 verb]"
+                    },
+                    {
+                        "base_word_": "sa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[ablative single], [ablative dual], [ablative plural]"
+                    },
+                    {
+                        "base_word_": "sā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[ablative single], [ablative dual], [ablative plural]"
+                    }
+                ]
+            },
+            {
+                "word": "dīpasya",
+                "analyses": [
+                    {
+                        "base_word_": "dīpa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[genitive single]"
+                    }
+                ]
+            },
+            {
+                "word": "dīpa",
+                "analyses": [
+                    {
+                        "base_word_": "dīpa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "tvam",
+                "analyses": [
+                    {
+                        "base_word_": "tva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "tva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative single]"
+                    },
+                    {
+                        "base_word_": "yuṣmad",
+                        "lexical_category": "pronoun, none",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "evam",
+                "analyses": [
+                    {
+                        "base_word_": "evam",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "evam",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "eva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "eva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "evā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    }
+                ]
+            },
+            {
+                "word": "dehakṛto",
+                "analyses": [
+                    {
+                        "base_word_": "dehakṛt",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative plural], [vocative plural], [accusative plural], [ablative single], [genitive single]"
+                    }
+                ]
+            },
+            {
+                "word": "bhavaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "bhava",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "bhu",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative plural], [vocative plural]"
+                    },
+                    {
+                        "base_word_": "bhu",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative plural], [vocative plural]"
+                    }
+                ]
+            },
+            {
+                "word": "rajaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "rajas",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [nominative single], [vocative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "sattvata",
+                "analyses": [
+                    {
+                        "base_word_": "sattvata",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "sattvata",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "mo",
+                "analyses": [
+                    {
+                        "base_word_": "ma",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "mu",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "vṛttyā",
+                "analyses": [
+                    {
+                        "base_word_": "vṛtti",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[ablative single], [genitive single]"
+                    }
+                ]
+            },
+            {
+                "word": "jāyate'",
+                "analyses": [
+                    {
+                        "base_word_": "√ jai -> jāyat",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[dative single from √ jai class 1 verb]"
+                    },
+                    {
+                        "base_word_": "√ jai -> jāyat",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[dative single from √ jai class 1 verb]"
+                    },
+                    {
+                        "base_word_": "√ jai",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[present middle third single]"
+                    },
+                    {
+                        "base_word_": "√ jan",
+                        "lexical_category": "verb class 4",
+                        "morph_synt_analysis": "[present middle third single]"
+                    }
+                ]
+            },
+            {
+                "word": "atha",
+                "analyses": [
+                    {
+                        "base_word_": "atha",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    }
+                ]
+            },
+            {
+                "word": "vina",
+                "analyses": [
+                    {
+                        "base_word_": "vina",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "vina",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "śyati",
+                "analyses": [
+                    {
+                        "base_word_": "√ śā -> śyat",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[locative single from √ śā class 4 verb]"
+                    },
+                    {
+                        "base_word_": "√ śā -> śyat",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[locative single from √ śā class 4 verb]"
+                    },
+                    {
+                        "base_word_": "√ śā",
+                        "lexical_category": "verb class 4",
+                        "morph_synt_analysis": "[present active third single]"
+                    }
+                ]
+            }
         ],
         "translation": "Just as the light (of an oil-lamp) retains its characteristic of giving light so long as the fire (the flame of the lamp) is associated with the wick soaked in oil, supply of oil to the wick, a container—a storage for this oil supply, similarly, Karma is the oil, the mind, the container of the oil, the body, the wick and its contact with fire means relation to the spirit. The body comes into existence and dies through the actions of the guṇas rajas, Sattva and tamas.[4]",
         "purport": "Footnote [4]:\nThe saṃsāra continues as long as the contact or influence of guṇas is there and the false presumption of the identity of the body and the soul persists. The saṃsāra like the lamp may cease to exist but the soul persists in existence despite the non-recurrcnce of the body."
@@ -183,23 +2049,267 @@
     {
         "verse": "8",
         "devanagari": "न तत्रात्मा स्वयंज्योतिः यो व्यक्ताव्यक्तयोः परः । आकाश इव चाधारो ध्रुवोऽनन्तोपमस्ततः ॥ ८ ॥",
-        "english_devnagari": "na tatrātmā svayaṃjyotiḥ yo vyaktāvyaktayoḥ paraḥākāśa iva cādhāro dhruvo'nantopamastataḥ",
+        "english_devnagari": "na tatrātmā svayaṃjyotiḥ yo vyaktāvyaktayoḥ paraḥ ākāśa iva cādhāro dhruvo",
         "verse_Syn": [
-            "na",
-            "tatrā",
-            "atmā",
-            "svayañjyotiḥ",
-            "yo",
-            "vyaktāvyaktayoḥ",
-            "paraḥ",
-            "ākāśa",
-            "iva",
-            "cā",
-            "ādhāro",
-            "dhruvo'",
-            "ananto",
-            "upamas",
-            "tataḥ"
+            {
+                "word": "na",
+                "analyses": [
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "indeclinable particle",
+                        "morph_synt_analysis": "[indeclinable particle]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "tatrā",
+                "analyses": [
+                    {
+                        "base_word_": "tatra",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "tatra",
+                        "lexical_category": "indeclinable correlative",
+                        "morph_synt_analysis": "[indeclinable correlative]"
+                    },
+                    {
+                        "base_word_": "tatra",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    }
+                ]
+            },
+            {
+                "word": "atmā",
+                "analyses": []
+            },
+            {
+                "word": "svayañjyotiḥ",
+                "analyses": [
+                    {
+                        "base_word_": "svayañjyotis",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single]"
+                    },
+                    {
+                        "base_word_": "svayañjyotis",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "yo",
+                "analyses": [
+                    {
+                        "base_word_": "yaḥ",
+                        "lexical_category": "indeclinable relative",
+                        "morph_synt_analysis": "[indeclinable relative]"
+                    },
+                    {
+                        "base_word_": "ya",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "yaḥ",
+                        "lexical_category": "pronoun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "vyaktāvyaktayoḥ",
+                "analyses": [
+                    {
+                        "base_word_": "vyaktāvyakta",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[genitive dual], [locative dual]"
+                    },
+                    {
+                        "base_word_": "vyaktāvyakta",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[genitive dual], [locative dual]"
+                    }
+                ]
+            },
+            {
+                "word": "paraḥ",
+                "analyses": [
+                    {
+                        "base_word_": "paraḥ",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "para",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ākāśa",
+                "analyses": [
+                    {
+                        "base_word_": "ākāśa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "iva",
+                "analyses": [
+                    {
+                        "base_word_": "iva",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "iva",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    }
+                ]
+            },
+            {
+                "word": "cā",
+                "analyses": [
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "indeclinable conjunction",
+                        "morph_synt_analysis": "[indeclinable conjunction]"
+                    },
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "cā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ādhāro",
+                "analyses": [
+                    {
+                        "base_word_": "ādhāra",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "dhruvo'",
+                "analyses": [
+                    {
+                        "base_word_": "dhruva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ananto",
+                "analyses": [
+                    {
+                        "base_word_": "ananta",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "ananta",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "anantā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "√ ant",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[perfect active first single], [perfect active second plural], [perfect active third single]"
+                    }
+                ]
+            },
+            {
+                "word": "upamas",
+                "analyses": [
+                    {
+                        "base_word_": "upama",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "tataḥ",
+                "analyses": [
+                    {
+                        "base_word_": "tataḥ",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "tataḥ",
+                        "lexical_category": "indeclinable correlative",
+                        "morph_synt_analysis": "[indeclinable correlative]"
+                    },
+                    {
+                        "base_word_": "tataḥ",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "tad",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[ablative single], [ablative dual], [ablative plural]"
+                    },
+                    {
+                        "base_word_": "tata",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "√ tan -> tata",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[nominative single from √ tan class 8 verb]"
+                    },
+                    {
+                        "base_word_": "sa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[ablative single], [ablative dual], [ablative plural]"
+                    },
+                    {
+                        "base_word_": "sā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[ablative single], [ablative dual], [ablative plural]"
+                    }
+                ]
+            }
         ],
         "translation": "The soul that is embodied does not cease to exist. For He is self-illuminating, distinct from and beyond gross (physical) and subtle, unmanifest (astral) bodies. Like the sky, he is the support (of everything else), eternal, endless, unparalleled and all pervasive.",
         "purport": ""
@@ -207,20 +2317,173 @@
     {
         "verse": "9",
         "devanagari": "एवमात्मानमात्मस्थम् आत्मनैवामृश प्रभो । बुद्ध्यानुमानगर्भिण्या वासुदेवानुचिन्तया ॥ ९ ॥",
-        "english_devnagari": "evamātmānamātmastham ātmanaivāmṛśa prabhobuddhyānumānagarbhiṇyā vāsudevānucintayā",
+        "english_devnagari": "evamātmānamātmastham ātmanaivāmṛśa prabho buddhyānumānagarbhiṇyā vāsudevānucintayā",
         "verse_Syn": [
-            "evam",
-            "ātmānam",
-            "ātmastham",
-            "ātmanai",
-            "evām",
-            "ṛśa",
-            "prabho",
-            "buddhyā",
-            "anumāna",
-            "garbhiṇyā",
-            "vāsudevā",
-            "anucintayā"
+            {
+                "word": "evam",
+                "analyses": [
+                    {
+                        "base_word_": "evam",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "evam",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "eva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "eva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "evā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    }
+                ]
+            },
+            {
+                "word": "ātmānam",
+                "analyses": [
+                    {
+                        "base_word_": "ātman",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ātmastham",
+                "analyses": [
+                    {
+                        "base_word_": "ātmastha",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "ātmastha",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ātmanai",
+                "analyses": [
+                    {
+                        "base_word_": "ātman",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[instrumental single]"
+                    }
+                ]
+            },
+            {
+                "word": "evām",
+                "analyses": [
+                    {
+                        "base_word_": "evā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ṛśa",
+                "analyses": [
+                    {
+                        "base_word_": "ṛśa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "prabho",
+                "analyses": [
+                    {
+                        "base_word_": "prabhu",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[vocative single]"
+                    },
+                    {
+                        "base_word_": "prabhu",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "buddhyā",
+                "analyses": [
+                    {
+                        "base_word_": "buddhi",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[instrumental single]"
+                    }
+                ]
+            },
+            {
+                "word": "anumāna",
+                "analyses": [
+                    {
+                        "base_word_": "anumāna",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "anumāna",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "garbhiṇyā",
+                "analyses": [
+                    {
+                        "base_word_": "garbhiṇī",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[ablative single], [genitive single]"
+                    }
+                ]
+            },
+            {
+                "word": "vāsudevā",
+                "analyses": [
+                    {
+                        "base_word_": "vāsudeva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "vāsudeva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "vāsudevā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "anucintayā",
+                "analyses": [
+                    {
+                        "base_word_": "anucintā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[instrumental single]"
+                    }
+                ]
+            }
         ],
         "translation": "Fully absorbed in the meditation on Vāsudeva and by means of your logical reasoning, do you yourself ponder over the self that is abiding in your body, O great king.",
         "purport": ""
@@ -228,22 +2491,248 @@
     {
         "verse": "10",
         "devanagari": "चोदितो विप्रवाक्येन न त्वां धक्ष्यति तक्षकः । मृत्यवो नोपधक्ष्यन्ति मृत्यूनां मृत्युमीश्वरम् ॥ १० ॥",
-        "english_devnagari": "codito vipravākyena na tvāṃ dhakṣyati takṣakaḥmṛtyavo nopadhakṣyanti mṛtyūnāṃ mṛtyumīśvaram",
+        "english_devnagari": "codito vipravākyena na tvāṃ dhakṣyati takṣakaḥ mṛtyavo nopadhakṣyanti mṛtyūnāṃ mṛtyumīśvaram",
         "verse_Syn": [
-            "codito",
-            "vipra",
-            "vākyena",
-            "na",
-            "tvām",
-            "dhakṣyati",
-            "takṣakaḥ",
-            "mṛtyavo",
-            "no",
-            "upa",
-            "dhakṣyanti",
-            "mṛtyūnām",
-            "mṛtyum",
-            "īśvaram"
+            {
+                "word": "codito",
+                "analyses": [
+                    {
+                        "base_word_": "coditṛ",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[vocative single]"
+                    },
+                    {
+                        "base_word_": "codita",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "√ cud -> codita",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[nominative single from √ cud ]"
+                    }
+                ]
+            },
+            {
+                "word": "vipra",
+                "analyses": [
+                    {
+                        "base_word_": "vipra",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "vipra",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "vākyena",
+                "analyses": [
+                    {
+                        "base_word_": "vākya",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[instrumental single]"
+                    },
+                    {
+                        "base_word_": "√ vac -> vākya",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[instrumental single from √ vac class 2 verb], [instrumental single from √ vac class 3 verb]"
+                    },
+                    {
+                        "base_word_": "√ vac -> vākya",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[instrumental single from √ vac class 2 verb], [instrumental single from √ vac class 3 verb]"
+                    },
+                    {
+                        "base_word_": "√ vak -> vākya",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[instrumental single from √ vak class 1 verb]"
+                    },
+                    {
+                        "base_word_": "√ vak -> vākya",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[instrumental single from √ vak class 1 verb]"
+                    }
+                ]
+            },
+            {
+                "word": "na",
+                "analyses": [
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "indeclinable particle",
+                        "morph_synt_analysis": "[indeclinable particle]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "tvām",
+                "analyses": [
+                    {
+                        "base_word_": "tvā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[accusative single]"
+                    },
+                    {
+                        "base_word_": "yuṣmad",
+                        "lexical_category": "pronoun, none",
+                        "morph_synt_analysis": "[accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "dhakṣyati",
+                "analyses": [
+                    {
+                        "base_word_": "√ dah",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[future active third single]"
+                    }
+                ]
+            },
+            {
+                "word": "takṣakaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "takṣaka",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "mṛtyavo",
+                "analyses": [
+                    {
+                        "base_word_": "mṛtyu",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative plural], [vocative plural]"
+                    }
+                ]
+            },
+            {
+                "word": "no",
+                "analyses": [
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "indeclinable particle",
+                        "morph_synt_analysis": "[indeclinable particle]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "nā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "nṛ",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "nu",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "upa",
+                "analyses": [
+                    {
+                        "base_word_": "upa",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "upa",
+                        "lexical_category": "indeclinable preposition",
+                        "morph_synt_analysis": "[indeclinable preposition]"
+                    },
+                    {
+                        "base_word_": "upa",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "upa",
+                        "lexical_category": "Preverb",
+                        "morph_synt_analysis": "[Preverb]"
+                    }
+                ]
+            },
+            {
+                "word": "dhakṣyanti",
+                "analyses": [
+                    {
+                        "base_word_": "√ dah",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[future active third plural]"
+                    }
+                ]
+            },
+            {
+                "word": "mṛtyūnām",
+                "analyses": [
+                    {
+                        "base_word_": "mṛtyu",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[genitive plural]"
+                    }
+                ]
+            },
+            {
+                "word": "mṛtyum",
+                "analyses": [
+                    {
+                        "base_word_": "mṛtyu",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "īśvaram",
+                "analyses": [
+                    {
+                        "base_word_": "īśvara",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "īśvara",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "īśvarā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    }
+                ]
+            }
         ],
         "translation": "Impelled by the imprecation of that Brāhmaṇa, Takṣaka shall not be able to burn you[5] (i.e. your soul). All the causes of death can never burn the supreme Lord who himself is the death of such agents of death.",
         "purport": "Footnote [5]:\nBhāgavata Candrikā: You will not feel the snake-bite as the causes of death cannot affect God and you who are absorbed in his contemplation\nPadaratnāvalī: Due to contemplation of God, Parīkṣit would be in the proximity of God."
@@ -251,23 +2740,323 @@
     {
         "verse": "11",
         "devanagari": "अहं ब्रह्म परं धाम ब्रह्माहं परमं पदम् । एवं समीक्ष्य चात्मानम् आत्मन्याधाय निष्कले ॥ ११ ॥",
-        "english_devnagari": "ahaṃ brahma paraṃ dhāma brahmāhaṃ paramaṃ padamevaṃ samīkṣya cātmānam ātmanyādhāya niṣkale",
+        "english_devnagari": "ahaṃ brahma paraṃ dhāma brahmāhaṃ paramaṃ padam evaṃ samīkṣya cātmānam ātmanyādhāya niṣkale",
         "verse_Syn": [
-            "aham",
-            "brahma",
-            "param",
-            "dhāma",
-            "brahmā",
-            "aham",
-            "paramam",
-            "padam",
-            "evam",
-            "samīkṣya",
-            "cāt",
-            "mānam",
-            "ātmanyā",
-            "ādhāya",
-            "niṣkale"
+            {
+                "word": "aham",
+                "analyses": [
+                    {
+                        "base_word_": "aha",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "asmad",
+                        "lexical_category": "pronoun, none",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "brahma",
+                "analyses": [
+                    {
+                        "base_word_": "brahma",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "brahma",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "brahman",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "√ brahm",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[imperative active second single]"
+                    }
+                ]
+            },
+            {
+                "word": "param",
+                "analyses": [
+                    {
+                        "base_word_": "param",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "para",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "para",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "dhāma",
+                "analyses": [
+                    {
+                        "base_word_": "dhāma",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "dhāma",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "dhāman",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound]"
+                    },
+                    {
+                        "base_word_": "dhāman",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "√ dhā",
+                        "lexical_category": "verb class 2",
+                        "morph_synt_analysis": "[imperative active first plural]"
+                    }
+                ]
+            },
+            {
+                "word": "brahmā",
+                "analyses": [
+                    {
+                        "base_word_": "brahma",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "brahma",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "brahman",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "brahmā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    },
+                    {
+                        "base_word_": "√ brahm",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[imperative active second single]"
+                    }
+                ]
+            },
+            {
+                "word": "aham",
+                "analyses": [
+                    {
+                        "base_word_": "aha",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "asmad",
+                        "lexical_category": "pronoun, none",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "paramam",
+                "analyses": [
+                    {
+                        "base_word_": "paramam",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "parama",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "parama",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "paramā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    }
+                ]
+            },
+            {
+                "word": "padam",
+                "analyses": [
+                    {
+                        "base_word_": "pada",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "evam",
+                "analyses": [
+                    {
+                        "base_word_": "evam",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "evam",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "eva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "eva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "evā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    }
+                ]
+            },
+            {
+                "word": "samīkṣya",
+                "analyses": [
+                    {
+                        "base_word_": "samīkṣya",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "samīkṣya",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "cāt",
+                "analyses": [
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [ablative single]"
+                    },
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [ablative single]"
+                    }
+                ]
+            },
+            {
+                "word": "mānam",
+                "analyses": [
+                    {
+                        "base_word_": "māna",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "māna",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "√ man -> māna",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[accusative single from √ man class 4 verb], [accusative single from √ man class 8 verb]"
+                    },
+                    {
+                        "base_word_": "√ man -> māna",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[nominative single from √ man class 4 verb], [accusative single from √ man class 4 verb], [nominative single from √ man class 8 verb], [accusative single from √ man class 8 verb]"
+                    }
+                ]
+            },
+            {
+                "word": "ātmanyā",
+                "analyses": [
+                    {
+                        "base_word_": "ātmanya",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "ātmanya",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "ātman",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "ātmanyā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ādhāya",
+                "analyses": [
+                    {
+                        "base_word_": "ādhāya",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    }
+                ]
+            },
+            {
+                "word": "niṣkale",
+                "analyses": [
+                    {
+                        "base_word_": "niṣkala",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "niṣkala",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative dual], [vocative dual], [accusative dual], [locative single]"
+                    },
+                    {
+                        "base_word_": "niṣkalā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative dual], [vocative single], [vocative dual], [accusative dual]"
+                    },
+                    {
+                        "base_word_": "niṣkali",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[vocative single]"
+                    }
+                ]
+            }
         ],
         "translation": "“I am the Brahman. I am the Supreme abode. Brahman, the highest goal (to be reached) is I myself.” Having realized this and absorbing yourself in the Supreme Self which is beyond the limits or conditions, you will see neither Takṣaka who is biting you at the foot with poisonous fangs (or licking it with his poisonous mouth) nor your body nor the world as being distinct and separate from your own Ātman.",
         "purport": ""
@@ -275,20 +3064,183 @@
     {
         "verse": "12",
         "devanagari": "दशन्तं तक्षकं पादे लेलिहानं विषाननैः । न द्रक्ष्यसि शरीरं च विश्वं च पृथगात्मनः ॥ १२ ॥",
-        "english_devnagari": "daśantaṃ takṣakaṃ pāde lelihānaṃ viṣānanaiḥna drakṣyasi śarīraṃ ca viśvaṃ ca pṛthagātmanaḥ",
+        "english_devnagari": "daśantaṃ takṣakaṃ pāde lelihānaṃ viṣānanaiḥ na drakṣyasi śarīraṃ ca viśvaṃ ca pṛthagātmanaḥ",
         "verse_Syn": [
-            "daśantam",
-            "takṣakam",
-            "pāde",
-            "lelihānam",
-            "viṣānanaiḥ",
-            "na",
-            "drakṣyasi",
-            "śarīram",
-            "ca",
-            "viśvam",
-            "ca",
-            "pṛthagātmanaḥ"
+            {
+                "word": "daśantam",
+                "analyses": [
+                    {
+                        "base_word_": "daśat",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "takṣakam",
+                "analyses": [
+                    {
+                        "base_word_": "takṣaka",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "takṣakā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    }
+                ]
+            },
+            {
+                "word": "pāde",
+                "analyses": [
+                    {
+                        "base_word_": "pāda",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    }
+                ]
+            },
+            {
+                "word": "lelihānam",
+                "analyses": [
+                    {
+                        "base_word_": "lelihāna",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "lelihāna",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "lelihānā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    }
+                ]
+            },
+            {
+                "word": "viṣānanaiḥ",
+                "analyses": [
+                    {
+                        "base_word_": "viṣānana",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[instrumental plural]"
+                    }
+                ]
+            },
+            {
+                "word": "na",
+                "analyses": [
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "indeclinable particle",
+                        "morph_synt_analysis": "[indeclinable particle]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "na",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "drakṣyasi",
+                "analyses": [
+                    {
+                        "base_word_": "√ dṛś",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[future active second single]"
+                    }
+                ]
+            },
+            {
+                "word": "śarīram",
+                "analyses": [
+                    {
+                        "base_word_": "śarīra",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ca",
+                "analyses": [
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "indeclinable conjunction",
+                        "morph_synt_analysis": "[indeclinable conjunction]"
+                    },
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "viśvam",
+                "analyses": [
+                    {
+                        "base_word_": "viśva",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "viśva",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "ca",
+                "analyses": [
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "indeclinable conjunction",
+                        "morph_synt_analysis": "[indeclinable conjunction]"
+                    },
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    },
+                    {
+                        "base_word_": "ca",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "pṛthagātmanaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "pṛthagātman",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative plural], [ablative single], [genitive single]"
+                    },
+                    {
+                        "base_word_": "pṛthagātman",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[ablative single], [genitive single]"
+                    }
+                ]
+            }
         ],
         "translation": "“I am the Brahman. I am the Supreme abode. Brahman, the highest goal (to be reached) is I myself.” Having realized this and absorbing yourself in the Supreme Self which is beyond the limits or conditions, you will see neither Takṣaka who is biting you at the foot with poisonous fangs (or licking it with his poisonous mouth) nor your body nor the world as being distinct and separate from your own Ātman.",
         "purport": ""
@@ -296,23 +3248,272 @@
     {
         "verse": "13",
         "devanagari": "एतत्ते कथितं तात यदात्मा पृष्टवान् नृप । हरेर्विश्वात्मनश्चेष्टां किं भूयः श्रोतुमिच्छसि ॥ १३ ॥",
-        "english_devnagari": "etatte kathitaṃ tāta yadātmā pṛṣṭavān nṛpaharerviśvātmanaśceṣṭāṃ kiṃ bhūyaḥ śrotumicchasi",
+        "english_devnagari": "etatte kathitaṃ tāta yadātmā pṛṣṭavān nṛpa harerviśvātmanaśceṣṭāṃ kiṃ bhūyaḥ śrotumicchasi",
         "verse_Syn": [
-            "etat",
-            "te",
-            "kathitam",
-            "tāta",
-            "yadā",
-            "atmā",
-            "pṛṣṭavān",
-            "nṛpa",
-            "harer",
-            "viśvātmanaś",
-            "ceṣṭām",
-            "kim",
-            "bhūyaḥ",
-            "śrotum",
-            "icchasi"
+            {
+                "word": "etat",
+                "analyses": [
+                    {
+                        "base_word_": "etad",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single]"
+                    },
+                    {
+                        "base_word_": "etad",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [nominative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "te",
+                "analyses": [
+                    {
+                        "base_word_": "ta",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[locative single]"
+                    },
+                    {
+                        "base_word_": "ta",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative dual], [vocative dual], [accusative dual], [locative single]"
+                    },
+                    {
+                        "base_word_": "tā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative dual], [vocative single], [vocative dual], [accusative dual]"
+                    },
+                    {
+                        "base_word_": "tad",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[nominative dual], [accusative dual]"
+                    },
+                    {
+                        "base_word_": "sa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative plural]"
+                    },
+                    {
+                        "base_word_": "sā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[nominative dual], [accusative dual]"
+                    },
+                    {
+                        "base_word_": "yuṣmad",
+                        "lexical_category": "pronoun, none",
+                        "morph_synt_analysis": "[dative single], [genitive single]"
+                    }
+                ]
+            },
+            {
+                "word": "kathitam",
+                "analyses": [
+                    {
+                        "base_word_": "kathita",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[adverb], [accusative single]"
+                    },
+                    {
+                        "base_word_": "kathita",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[adverb], [nominative single], [accusative single]"
+                    },
+                    {
+                        "base_word_": "kathitā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[adverb]"
+                    },
+                    {
+                        "base_word_": "√ kath -> kathita",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[accusative single from √ kath class 10 verb]"
+                    },
+                    {
+                        "base_word_": "√ kath -> kathita",
+                        "lexical_category": "participle, neuter",
+                        "morph_synt_analysis": "[nominative single from √ kath class 10 verb], [accusative single from √ kath class 10 verb]"
+                    }
+                ]
+            },
+            {
+                "word": "tāta",
+                "analyses": [
+                    {
+                        "base_word_": "tāta",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "yadā",
+                "analyses": [
+                    {
+                        "base_word_": "yadā",
+                        "lexical_category": "indeclinable adverb",
+                        "morph_synt_analysis": "[indeclinable adverb]"
+                    },
+                    {
+                        "base_word_": "yadā",
+                        "lexical_category": "indeclinable relative",
+                        "morph_synt_analysis": "[indeclinable relative]"
+                    },
+                    {
+                        "base_word_": "yadā",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "yad",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[instrumental single]"
+                    }
+                ]
+            },
+            {
+                "word": "atmā",
+                "analyses": []
+            },
+            {
+                "word": "pṛṣṭavān",
+                "analyses": [
+                    {
+                        "base_word_": "√ pṛṣ -> pṛṣṭavat",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[nominative single from √ pṛṣ class 1 verb]"
+                    },
+                    {
+                        "base_word_": "√ praś -> pṛṣṭavat",
+                        "lexical_category": "participle, masculine",
+                        "morph_synt_analysis": "[nominative single from √ praś class 6 verb]"
+                    },
+                    {
+                        "base_word_": "pṛṣṭavat",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[nominative single]"
+                    }
+                ]
+            },
+            {
+                "word": "nṛpa",
+                "analyses": [
+                    {
+                        "base_word_": "nṛpa",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [vocative single]"
+                    }
+                ]
+            },
+            {
+                "word": "harer",
+                "analyses": [
+                    {
+                        "base_word_": "hari",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[ablative single], [genitive single]"
+                    },
+                    {
+                        "base_word_": "hari",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[ablative single], [genitive single]"
+                    },
+                    {
+                        "base_word_": "√ hṛ",
+                        "lexical_category": "verb class 1",
+                        "morph_synt_analysis": "[optative active second single]"
+                    }
+                ]
+            },
+            {
+                "word": "viśvātmanaś",
+                "analyses": [
+                    {
+                        "base_word_": "viśvātmanaḥ",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "viśvātman",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative plural], [ablative single], [genitive single]"
+                    }
+                ]
+            },
+            {
+                "word": "ceṣṭām",
+                "analyses": [
+                    {
+                        "base_word_": "ceṣṭā",
+                        "lexical_category": "noun, feminine",
+                        "morph_synt_analysis": "[accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "kim",
+                "analyses": [
+                    {
+                        "base_word_": "kim",
+                        "lexical_category": "indeclinable interrogative",
+                        "morph_synt_analysis": "[indeclinable interrogative]"
+                    },
+                    {
+                        "base_word_": "kim",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "kim",
+                        "lexical_category": "pronoun, neuter",
+                        "morph_synt_analysis": "[nominative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "bhūyaḥ",
+                "analyses": [
+                    {
+                        "base_word_": "bhūyaḥ",
+                        "lexical_category": "indeclinable",
+                        "morph_synt_analysis": "[indeclinable]"
+                    },
+                    {
+                        "base_word_": "bhūyas",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[compound], [adverb]"
+                    },
+                    {
+                        "base_word_": "bhūyas",
+                        "lexical_category": "noun, neuter",
+                        "morph_synt_analysis": "[compound], [adverb], [nominative single], [vocative single], [accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "śrotum",
+                "analyses": [
+                    {
+                        "base_word_": "√ śru -> śrotum",
+                        "lexical_category": "infinitive",
+                        "morph_synt_analysis": "[infinitive from √ śru ]"
+                    },
+                    {
+                        "base_word_": "śrotu",
+                        "lexical_category": "noun, masculine",
+                        "morph_synt_analysis": "[accusative single]"
+                    }
+                ]
+            },
+            {
+                "word": "icchasi",
+                "analyses": [
+                    {
+                        "base_word_": "√ iṣ",
+                        "lexical_category": "verb class 6",
+                        "morph_synt_analysis": "[present active second single]"
+                    }
+                ]
+            }
         ],
         "translation": "Dear Parīkṣit I All this has been elucidated to you as per enquiries made by you about the sportful activities of Lord Hari, the Soul of the Universe. What more do you wish to hear from me, O king!\n[back to top]",
         "purport": ""

@@ -10,9 +10,6 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from generate_sanskrit_excel import parse_data
-from scrape_chapter import extract_analysis_text
-
 HTML_RE = re.compile(r"^(\d+)_(\d+)_(\d+)\.html$")
 
 
@@ -137,24 +134,102 @@ def parse_english_translation(html_content: str) -> dict:
     return mapped_data
 
 
+def parse_sanskrit_html(html_content: str) -> tuple[str, list[dict]]:
+    soup = BeautifulSoup(html_content, "lxml")
+    syntax_sec = soup.find("section", class_="syntax")
+    if not syntax_sec:
+        syntax_sec = soup
+        
+    ul = syntax_sec.find("ul", class_="list-group")
+    if not ul:
+        return "", []
+        
+    line_texts = []
+    tokens = []
+    current_token = None
+    
+    for li in ul.find_all("li", recursive=False):
+        classes = li.get("class", [])
+        if "heading" in classes:
+            text = li.get_text(" ", strip=True)
+            m = re.search(r'Line \d+:\s*[“"\'\u201c\u201d](.+?)[”"\'\u201c\u201d]', text)
+            if m:
+                line_texts.append(m.group(1).strip())
+            else:
+                cleaned = re.sub(r'^Line \d+:\s*', '', text).strip()
+                cleaned = cleaned.strip('“"”\'\u201c\u201d')
+                line_texts.append(cleaned)
+            continue
+            
+        elif "segment" in classes:
+            text = li.get_text(" ", strip=True)
+            surface = text.strip()
+            if surface.endswith("-"):
+                surface = surface[:-1].strip()
+            surface = surface.rstrip("*")
+            current_token = {
+                "word": surface,
+                "analyses": []
+            }
+            tokens.append(current_token)
+            
+        elif "list" in classes:
+            if current_token is None:
+                continue
+            for row in li.select(".words-group"):
+                col5 = row.select_one(".col-5")
+                col7 = row.select_one(".col-7")
+                
+                raw_base_word = ""
+                morph_analysis = ""
+                
+                if col5:
+                    raw_base_word = re.sub(r"\s+", " ", col5.get_text(" ", strip=True)).strip()
+                if col7:
+                    morph_analysis = re.sub(r"\s+", " ", col7.get_text(" ", strip=True)).strip()
+                    
+                if raw_base_word or morph_analysis:
+                    m = re.match(r"^([^\(]+?)\s*\((.+?)\)\s*$", raw_base_word)
+                    if m:
+                        base_word_val = m.group(1).strip()
+                        lex_catg_val = m.group(2).strip()
+                    else:
+                        base_word_val = raw_base_word
+                        lex_catg_val = ""
+                    current_token["analyses"].append({
+                        "base_word_": base_word_val,
+                        "lex_catg": lex_catg_val,
+                        "morphological_and_syntactical_analysis": morph_analysis
+                    })
+            text = li.get_text(" ", strip=True)
+            if text.lower().startswith("cannot analyse"):
+                m = re.match(r"^([^\(]+?)\s*\((.+?)\)\s*$", text)
+                if m:
+                    base_word_val = m.group(1).strip()
+                    lex_catg_val = m.group(2).strip()
+                else:
+                    base_word_val = text.strip()
+                    lex_catg_val = ""
+                current_token["analyses"].append({
+                    "base_word_": base_word_val,
+                    "lex_catg": lex_catg_val,
+                    "morphological_and_syntactical_analysis": ""
+                })
+                
+    english_devnagari = " ".join(line_texts)
+    return english_devnagari, tokens
+
+
 def verse_json_from_html(path: Path, book: int, chapter: int, verse_num: int, translation_map: dict) -> dict:
     html = path.read_text(encoding="utf-8")
-    verse_ref = f"{book}.{chapter}.{verse_num}"
     devanagari = devanagari_from_html(html)
 
     english_devnagari = ""
-    verse_syn: list[str] = []
+    verse_syn: list[dict] = []
     try:
-        analysis_text = extract_analysis_text(html, verse_ref)
-        parsed = parse_data(analysis_text)
-        if parsed:
-            lines = parsed[0]["lines"]
-            english_devnagari = "".join(line["line_text"].strip() for line in lines)
-            for line in lines:
-                for token in line["tokens"]:
-                    verse_syn.append(token["surface"])
-    except Exception:
-        pass
+        english_devnagari, verse_syn = parse_sanskrit_html(html)
+    except Exception as e:
+        print(f"Warning: failed to parse Sanskrit grammar from {path.name}: {e}")
 
     translation = ""
     purport = ""
@@ -170,6 +245,7 @@ def verse_json_from_html(path: Path, book: int, chapter: int, verse_num: int, tr
         "translation": translation,
         "purport": purport,
     }
+
 
 
 def main() -> None:
