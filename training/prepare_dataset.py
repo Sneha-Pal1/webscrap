@@ -85,7 +85,7 @@ def write_jsonl(path: Path, rows: list[dict]) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--json-dir", type=Path, default=Path("json"))
+    parser.add_argument("--json-dir", type=Path, default=Path("data/json"))
     parser.add_argument("--out-dir", type=Path, default=Path("training/data"))
     parser.add_argument(
         "--task",

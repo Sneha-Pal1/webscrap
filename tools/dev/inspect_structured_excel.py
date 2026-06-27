@@ -1,7 +1,7 @@
 import openpyxl
 from pathlib import Path
 
-excel_path = Path("structured/bhagavata_book2_ch1_structured.xlsx")
+excel_path = Path("data/excel/bhagavata_book2_ch1_structured.xlsx")
 if excel_path.exists():
     wb = openpyxl.load_workbook(excel_path)
     print("Sheets in structured excel:", wb.sheetnames)

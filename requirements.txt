@@ -1,0 +1,9 @@
+# Core runtime dependencies for the scraping + processing pipeline.
+# Install with: pip install -r requirements.txt
+
+beautifulsoup4>=4.12
+lxml>=5.0
+openpyxl>=3.1
+playwright>=1.40    # live scraping only; run `playwright install chromium` after install
+
+# Note: training has its own pinned set in training/requirements-training.txt

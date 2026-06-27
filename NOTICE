@@ -1,0 +1,40 @@
+Bhagavata Purana Morphology Dataset & Toolkit
+Copyright 2026 Bhagavata Purana Morphology Dataset contributors
+
+This product includes software licensed under the Apache License, Version 2.0
+(see the LICENSE file). The source code may be used under those terms.
+
+------------------------------------------------------------------------------
+THIRD-PARTY DATA NOTICE
+------------------------------------------------------------------------------
+
+The DATA in this repository (data/json/, data/excel/, and examples/) is NOT
+covered by the Apache License and is NOT owned by this project. See
+DATA_LICENSE.md for full details.
+
+The data is derived from material hosted at Wisdom Library
+(https://www.wisdomlib.org). The English translation and purport (commentary)
+fields are believed to originate from:
+
+    G. V. Tagare (trans.), "The Bhagavata Purana"
+    (Ancient Indian Tradition and Mythology series),
+    Motilal Banarsidass Publishers Pvt. Ltd.
+
+These portions remain the copyright of their respective rights holders. This
+project claims no ownership and grants no license to that content. It is
+included only for non-commercial research and educational use, with attribution.
+
+This project is independent and is not affiliated with, authorized by, or
+endorsed by Wisdom Library, Motilal Banarsidass, or any rights holder.
+
+------------------------------------------------------------------------------
+TAKEDOWN REQUESTS
+------------------------------------------------------------------------------
+
+If you are a copyright holder (or authorized representative) and believe any
+content in this repository infringes your rights, please contact:
+
+    udaid347@gmail.com
+
+or open an issue on the repository. The disputed content will be removed
+promptly upon a good-faith request.

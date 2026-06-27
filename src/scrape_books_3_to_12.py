@@ -224,7 +224,7 @@ def main() -> None:
     parser.add_argument("--start-doc", type=int, default=1241414)
     parser.add_argument("--end-doc", type=int, default=1265000)
     parser.add_argument("--out-dir", type=Path, default=Path("data/scraped"))
-    parser.add_argument("--excel-dir", type=Path, default=Path("excel_sheets"))
+    parser.add_argument("--excel-dir", type=Path, default=Path("data/excel"))
     parser.add_argument("--profile-dir", type=Path, default=Path("data/scraped/.browser-profile"))
     parser.add_argument("--delay", type=float, default=1.5)
     parser.add_argument("--start-book", type=int, default=3)

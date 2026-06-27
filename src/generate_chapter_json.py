@@ -251,7 +251,7 @@ def verse_json_from_html(path: Path, book: int, chapter: int, verse_num: int, tr
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--html-dir", type=Path, default=Path("data/scraped"))
-    parser.add_argument("--out-dir", type=Path, default=Path("json"))
+    parser.add_argument("--out-dir", type=Path, default=Path("data/json"))
     parser.add_argument("--start-book", type=int, default=2)
     parser.add_argument("--end-book", type=int, default=12)
     args = parser.parse_args()

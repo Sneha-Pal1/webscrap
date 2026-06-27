@@ -64,7 +64,7 @@ Each verse has its own page. Book 2 Chapter 1 uses doc IDs **1003–1041**:
 
 The scraper reads the **“Analysis of Sanskrit grammar”** section on each page and ignores everything after **“Other editions”**.
 
-Verse-to-doc-ID mappings for other chapters are defined in `scrape_chapter.py` (`chapter_verse_urls()`). Add new chapters there before scraping.
+Verse-to-doc-ID mappings for other chapters are defined in `src/scrape_chapter.py` (`chapter_verse_urls()`). Add new chapters there before scraping.
 
 ### Option A — Live scrape (Playwright + Chrome)
 
@@ -72,7 +72,7 @@ Opens a real browser window, visits each verse URL, waits for Cloudflare, and sa
 
 ```bash
 cd ~/Projects/webscrap
-.venv/bin/python scrape_chapter.py --chapter 1 --out-dir data/scraped
+.venv/bin/python src/scrape_chapter.py --chapter 1 --out-dir data/scraped
 ```
 
 What it does:
@@ -95,7 +95,7 @@ If you already have HTML files (from a browser session, manual save, or a partia
 
 ```bash
 cd ~/Projects/webscrap
-.venv/bin/python scrape_chapter.py --chapter 1 --from-html --out-dir data/scraped
+.venv/bin/python src/scrape_chapter.py --chapter 1 --from-html --out-dir data/scraped
 ```
 
 This reads all `data/scraped/2_1_*.html` files, extracts morphology, and regenerates `data/scraped/chapter_1_raw.txt` without hitting the website.
@@ -105,10 +105,10 @@ This reads all `data/scraped/2_1_*.html` files, extracts morphology, and regener
 If pages cannot be fetched automatically, copy the **Analysis of Sanskrit grammar** block from the browser and paste into a file (e.g. `chapter2.txt`). Then normalize headers if needed:
 
 ```bash
-.venv/bin/python normalize_pasted_verse.py chapter2.txt data/scraped/chapter_2_raw.txt
+.venv/bin/python src/normalize_pasted_verse.py chapter2.txt data/scraped/chapter_2_raw.txt
 ```
 
-`normalize_pasted_verse.py` converts `Verse 2.2.N` → `verse 2.2.N` and curly quotes → straight quotes. The Excel generator also accepts pasted format directly (case-insensitive `verse` headers and curly quotes).
+`src/normalize_pasted_verse.py` converts `Verse 2.2.N` → `verse 2.2.N` and curly quotes → straight quotes. The Excel generator also accepts pasted format directly (case-insensitive `verse` headers and curly quotes).
 
 ---
 
@@ -157,7 +157,7 @@ grep -c '^verse ' data/scraped/chapter_1_raw.txt   # should match verse count
 
 ```bash
 cd ~/Projects/webscrap
-.venv/bin/python generate_sanskrit_excel.py \
+.venv/bin/python src/generate_sanskrit_excel.py \
   --input data/scraped/chapter_1_raw.txt \
   --output-prefix bhagavata_book2_ch1
 ```
@@ -214,13 +214,13 @@ Two sheets:
 cd ~/Projects/webscrap
 
 # 1. Scrape (or skip if HTML already in data/scraped/)
-.venv/bin/python scrape_chapter.py --chapter 1 --out-dir data/scraped
+.venv/bin/python src/scrape_chapter.py --chapter 1 --out-dir data/scraped
 
 # If HTML is already saved, use offline parse instead:
-# .venv/bin/python scrape_chapter.py --chapter 1 --from-html --out-dir data/scraped
+# .venv/bin/python src/scrape_chapter.py --chapter 1 --from-html --out-dir data/scraped
 
 # 2. Generate Excel
-.venv/bin/python generate_sanskrit_excel.py \
+.venv/bin/python src/generate_sanskrit_excel.py \
   --input data/scraped/chapter_1_raw.txt \
   --output-prefix bhagavata_book2_ch1
 ```
@@ -230,14 +230,14 @@ cd ~/Projects/webscrap
 ## Adding a new chapter
 
 1. **Find doc IDs** — open the chapter index on wisdomlib.org and note the `doc124XXXX` ID for the first and last verse.
-2. **Update `scrape_chapter.py`** — add a branch in `chapter_verse_urls()` with the correct verse range and doc ID formula.
+2. **Update `src/scrape_chapter.py`** — add a branch in `chapter_verse_urls()` with the correct verse range and doc ID formula.
 3. **Scrape or paste** — run Option A, B, or C above.
 4. **Generate Excel** — point `--input` at the raw txt and choose an `--output-prefix`.
 
 Example for Chapter 2 (already configured in the scraper, verses 2.2.1–2.2.37 + colophon 2.2.38):
 
 ```bash
-.venv/bin/python generate_sanskrit_excel.py \
+.venv/bin/python src/generate_sanskrit_excel.py \
   --input chapter2.txt \
   --output-prefix bhagavata_book2_ch2
 ```
@@ -248,10 +248,10 @@ Example for Chapter 2 (already configured in the scraper, verses 2.2.1–2.2.37 
 
 | File | Role |
 |------|------|
-| `scrape_chapter.py` | Fetch pages (Playwright) or parse saved HTML → raw txt |
-| `generate_sanskrit_excel.py` | Raw txt → linear + structured Excel |
-| `normalize_pasted_verse.py` | Normalize manually pasted text |
-| `parse_snapshot.py` | Alternative: parse Cursor browser snapshot logs |
+| `src/scrape_chapter.py` | Fetch pages (Playwright) or parse saved HTML → raw txt |
+| `src/generate_sanskrit_excel.py` | Raw txt → linear + structured Excel |
+| `src/normalize_pasted_verse.py` | Normalize manually pasted text |
+| `src/parse_snapshot.py` | Alternative: parse Cursor browser snapshot logs |
 | `data/scraped/2_*_*.html` | Per-verse saved HTML |
 | `data/scraped/chapter_N_raw.txt` | Combined morphology text |
 
@@ -262,7 +262,7 @@ Example for Chapter 2 (already configured in the scraper, verses 2.2.1–2.2.37 
 | Problem | Cause | Fix |
 |---------|-------|-----|
 | “Just a moment…” / empty page | Cloudflare bot check | Use Playwright with system Chrome (`headless=False`); avoid curl/wget |
-| Only 1 verse parsed | `Verse` vs `verse` or curly quotes | Run `normalize_pasted_verse.py`, or use current `generate_sanskrit_excel.py` (handles both) |
+| Only 1 verse parsed | `Verse` vs `verse` or curly quotes | Run `src/normalize_pasted_verse.py`, or use current `src/generate_sanskrit_excel.py` (handles both) |
 | `No analysis section` | HTML layout changed or wrong file | Re-save HTML from browser; check page has “Analysis of Sanskrit grammar” |
 | Playwright Chromium download stuck | Large browser binary | Use `channel="chrome"` with installed Google Chrome instead |
 | Missing tokens | Commentary mixed into paste | Edit txt to remove non-morphology lines before generating Excel |

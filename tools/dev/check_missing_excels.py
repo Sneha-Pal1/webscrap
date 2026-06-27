@@ -1,6 +1,6 @@
 from pathlib import Path
 
-excel_dir = Path("excel_sheets")
+excel_dir = Path("data/excel")
 missing = [
     (5, 25), (5, 26),
     (7, 6), (7, 11), (7, 12), (7, 14),
